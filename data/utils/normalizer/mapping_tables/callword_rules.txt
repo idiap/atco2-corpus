@@ -1,0 +1,246 @@
+aero flot	aeroflot
+aero lloyd	aero_lloyd
+aero mexico	aeromexico
+aero star	aerostar
+a igle azur	aigle_azur
+aigle azur	aigle_azur
+air algerie	air_algerie
+air baltic	air_baltic
+airbaltic	air_baltic
+air berlin	air_berlin
+air bridge cargo	airbridge_cargo
+airbridge cargo	airbridge_cargo
+airbus industrie	airbus_industrie
+air canada	air_canada
+air china	air_china
+air europe	air_europe
+air france	airfrans
+air_france	airfrans
+airfrance	airfrans
+air_frans	airfrans
+air georgia	air_georgia
+air hamburg	air_hamburg
+air hop	air_hop
+air india	airindia
+air_india	airindia
+air link	airlink
+air malta	air_malta
+air mauritius	airmauritius
+air nostrum	air_nostrum
+air portugal	air_portugal
+air serbia	air_serbia
+air shuttle	air_shuttle
+air swift	airswift
+air ukraine	air_ukraine
+air van	air_van
+air west	air_west
+all nippon	all_nippon
+antonov bureau	antonov_bureau
+arabia maroc	arabia_maroc
+arctic eagle	arctic_eagle
+arcus air	arcus_air
+arcusair	arcus_air
+arrow jet	arrow_jet
+austrian air force	austrian_airforce
+austrian airforce	austrian_airforce
+b_air	bair
+bee line	beeline
+bee_line	beeline
+bee med	bee_med
+belgian airforce	belgian_airforce
+black sea	black_sea
+blacksea	black_sea
+blue cargo	blue_cargo
+blue line	blueline
+blue ridge	blueridge
+blue transport	blue_transport
+bluewings	blue_wings
+brit air	britair
+broad sword	broadsword
+can force	canforce
+care flight	care_flight
+cargo lux	cargolux
+cedar jet	cedar_jet
+central charter	central_charter
+charter ukraine	charter_ukraine
+china eastern	china_eastern
+china southern	china_southern
+cross air	crossair
+csa	c_s_a
+czech air force	czech_air_force
+czech holidays	czech_holidays
+danish airforce	danish_airforce
+dark blue	dark_blue
+dream team	dream_team
+dreamteam	dream_team
+eagle flight	eagle_flight
+east coast	east_coast
+east flight	eastflight
+e asy	easy
+egypt air	egyptair
+egypt_air	egyptair
+e_l al	el_al
+el a_l	el_al
+el al	el_al
+elite jet	elite_jet
+enac school	enac_school
+euro trans	eurotrans
+euro west	eurowest
+euro wings	eurowings
+ever flight	ever_flight
+exec jet	execjet
+falcon jet	falconjet
+faroe line	faroeline
+final air	finalair
+fineair	fine_air
+finn_air	finnair
+fire bird	firebird
+fire_bird	firebird
+first air	first_air
+flying bulgaria	flying_bulgaria
+flying group	flying_group
+flying lux	flyinglux
+fly niki	flyniki
+fly_niki	flyniki
+france soleil	france_soleil
+french air force	french_air_force
+french airforce	french_air_force
+french army	french_army
+french navy	french_navy
+german air force	german_air_force
+german airforce	german_air_force
+german cargo	german_cargo
+german wings	german_wings
+germanwings	german_wings
+green land	greenland
+guard air	guard_air
+gulf air	gulf_air
+gulfair	gulf_air
+hamburg airways	hamburg_airways
+hapag lloyd	hapag_lloyd
+high field	highfield
+hongkong shuttle	hongkong_shuttle
+ice air	iceair
+iran_air	iranair
+jade cargo	jade_cargo
+japan air	japanair
+j ersey	jersey
+jet airways	jet_airways
+jetairways	jet_airways
+jetaviation	jet_aviation
+jet clipper	jetclipper
+jetex	jet_ex
+jet express	jet_express
+jet link	jet_link
+jetlink	jet_link
+jet ready	jet_ready
+jet set	jetset
+jet star	jetstar
+jet stream	jet_stream
+jetstream	jet_stream
+job air	jobair
+jump run	jump_run
+k l m	k_l_m
+klm	k_l_m
+korean air	korean_air
+koreanair	korean_air
+lauda air	lauda_air
+lighthouse	light_house
+lion king	lion_king
+l_o_t	lot
+lufthansa cargo	lufthansa_cargo
+luft hansa	lufthansa
+luft transport	luft_transport
+metro jet	metrojet
+nav checker	nav_checker
+netherlands air force	netherlands_air_force
+new flight	newflight
+new zealand	new_zealand
+nor shuttle	nor_shuttle
+norshuttle	nor_shuttle
+north flying	north_flying
+nor wing	norwing
+oman air	oman_air
+omanair	oman_air
+onur air	onur_air
+opera jet	opera_jet
+operajet	opera_jet
+pem air	pem_air
+pilatus wings	pilatus_wings
+redbird	red_bird
+r oyalair maroc	royalair_maroc
+royal air maroc	royalair_maroc
+royalair maroc	royalair_maroc
+r yanair	ryanair
+ryan air	ryanair
+ryan_air	ryanair
+silk west	silk_west
+silkwest	silk_west
+silver cloud	silver_cloud
+sky_fox	skyfox
+skyshuttle	sky_shuttle
+sky travel	skytravel
+sky_travel	skytravel
+sky walker	skywalker
+sky_walker	skywalker
+slovak airforce	slovak_airforce
+slovak government	slovak_government
+slovak_travel	slovaktravel
+small planet	small_planet
+smart lynx	smart_lynx
+smartlynx	smart_lynx
+smartwings	smart_wings
+snow cab	snowcap
+snow_cab	snowcap
+south american	south_american
+southern air	southern_air
+southernair	southern_air
+southern cross	southern_cross
+s peedbird	speedbird
+speed bird	speedbird
+star check	star_check
+starcheck	star_check
+s_t_a_r	star
+state aero	state_aero
+sudan air	sudanair
+sun country	sun_country
+sun_express	sunexpress
+swede star	swedestar
+swift air	swiftair
+swiss air force	swiss_air_force
+swiss ambulance	swiss_ambulance
+tag jet	tag_jet
+tahiti airlines	tahiti_airlines
+thunder cat	thunder_cat
+time air	time_air
+timeair	time_air
+tom jet	tomjet
+top swiss	topswiss
+trans europe	trans_europe
+tuijet	tui_jet
+t urkish	turkish
+t w a	t_w_a
+twa	t_w_a
+twin_goose	twingoose
+twin jet	twinjet
+twin star	twin_star
+twinstar	twin_star
+ukraine international	ukraine_international
+u p s	u_p_s
+ups	u_p_s
+u s air	u_s_air
+u_s air	u_s_air
+us air	u_s_air
+us_air	u_s_air
+usair	u_s_air
+val jet	valjet
+vista jet	vista_jet
+vistajet	vista_jet
+western global	western_global
+white cap	whitecap
+white star	whitestar
+wizz air	wizz_air
+wizzair	wizz_air
+wizz go	wizz_go
+yangtze river	yangtze_river
+zen star	zenstar

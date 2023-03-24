@@ -1,0 +1,6 @@
+*.sw?
+data/local**
+prep
+steps
+utils
+path.sh

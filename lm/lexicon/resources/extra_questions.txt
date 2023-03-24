@@ -1,0 +1,4 @@
+sil gbg 
+aa2 ae2 ah2 ao2 aw2 ay2 eh2 er2 ey2 ih2 iy2 ow2 oy2 uh2 uw2 
+aa0 ae0 ah0 ao0 aw0 ay0 eh0 er0 ey0 ih0 iy0 ow0 oy0 uh0 uw0 
+aa1 ae1 ah1 ao1 aw1 ay1 eh1 er1 ey1 ih1 iy1 ow1 oy1 uh1 uw1 

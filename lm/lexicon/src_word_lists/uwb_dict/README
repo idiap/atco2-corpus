@@ -1,0 +1,38 @@
+#!/bin/bash
+src_dict=/mnt/matylda2/data/AirTraffic/UWB_lexicon/v01_dict_mix.txt
+
+# import UWB lexicon to UTF, remove digits )+& '__'
+cat $src_dict | awk '{ print $1; }' | \
+  grep -v '[0-9)\+\&]' | grep -v '__' | \
+  uconv -f windows1250 -t utf8 | \
+  sort -u > uwb_dict_wrdlist
+
+# prepare czech word list for a black-list,
+czech_lexicon=/mnt/matylda2/data/AirTraffic/generic_lexicons/czech_lexicon_for_filtering.txt
+cat $czech_lexicon | awk '{ print $1 }' | \
+  uconv -f utf8 -t utf8 -x "Any-Lower" | \
+  LC_ALL=C egrep -v '^[/_]|[/_]$' | \
+  LC_ALL=C sort -u \
+  > czech_wordlist
+
+# add 1st col converted to lower-case,
+paste -d' ' <(uconv -f utf8 -t utf8 -x "Any-Lower" uwb_dict_wrdlist) \
+            uwb_dict_wrdlist \
+            >uwb_dict_wrdlist.lc_mc_cols
+
+# remove 'czech_wordlist'
+join -v1 <(sort uwb_dict_wrdlist.lc_mc_cols -k1,1) <(sort czech_wordlist) | \
+  awk '{ print $2; }' |
+  LC_ALL=C grep '^[a-zA-Z_]*$' | \
+  egrep -v '^prahem|^Praho|^rozumim|^stahujem|^startuji|^turbulenci|^VOZICE|^vstupuji|^vtipy|^vyhneme|^vzhlet|^vzlet|^zahajte' > uwb_dict_wrdlist.no_czech
+
+# prepare the final version of word-list,
+# (expand acronyms, to lowercase, remove words with diacritics, apply normalization
+cat uwb_dict_wrdlist.no_czech | \
+  ../../../kaldi_data_preparations/common/expand_uc_acronyms.py | \
+  uconv -f utf8 -t utf8 -x "Any-Lower" | \
+  LC_ALL=C grep '^[a-z_]*$' | \
+  ../../../kaldi_data_preparations/common/text_normalization_lc.sh | \
+  grep -v ' ' | sort -u \
+  >uwb_dict_wrdlist.final
+

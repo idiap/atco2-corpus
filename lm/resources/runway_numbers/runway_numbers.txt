@@ -1,0 +1,4515 @@
+runway zero one
+runway zero two
+runway zero three
+runway zero four
+runway zero five
+runway zero six
+runway zero seven
+runway zero eight
+runway zero nine
+runway one zero
+runway one one
+runway one two
+runway one three
+runway one four
+runway one five
+runway one six
+runway one seven
+runway one eight
+runway one nine
+runway two zero
+runway two one
+runway two two
+runway two three
+runway two four
+runway two five
+runway two six
+runway two seven
+runway two eight
+runway two nine
+runway three zero
+runway three one
+runway three two
+runway three three
+runway three four
+runway three five
+runway three six
+runway one left
+runway one right
+runway one center
+runway two left
+runway two right
+runway two center
+runway three left
+runway three right
+runway three center
+runway four left
+runway four right
+runway four center
+runway five left
+runway five right
+runway five center
+runway six left
+runway six right
+runway six center
+runway seven left
+runway seven right
+runway seven center
+runway eight left
+runway eight right
+runway eight center
+runway nine left
+runway nine right
+runway nine center
+runway one one left
+runway one one right
+runway one one center
+runway one two left
+runway one two right
+runway one two center
+runway one three left
+runway one three right
+runway one three center
+runway one four left
+runway one four right
+runway one four center
+runway one five left
+runway one five right
+runway one five center
+runway one six left
+runway one six right
+runway one six center
+runway one seven left
+runway one seven right
+runway one seven center
+runway one eight left
+runway one eight right
+runway one eight center
+runway one nine left
+runway one nine right
+runway one nine center
+runway two zero left
+runway two zero right
+runway two zero center
+runway two one left
+runway two one right
+runway two one center
+runway two two left
+runway two two right
+runway two two center
+runway two three left
+runway two three right
+runway two three center
+runway two four left
+runway two four right
+runway two four center
+runway two five left
+runway two five right
+runway two five center
+runway two six left
+runway two six right
+runway two six center
+runway two seven left
+runway two seven right
+runway two seven center
+runway two eight left
+runway two eight right
+runway two eight center
+runway two nine left
+runway two nine right
+runway two nine center
+runway three zero left
+runway three zero right
+runway three zero center
+runway three one left
+runway three one right
+runway three one center
+runway three two left
+runway three two right
+runway three two center
+runway three three left
+runway three three right
+runway three three center
+runway three four left
+runway three four right
+runway three four center
+runway three five left
+runway three five right
+runway three five center
+runway three six left
+runway three six right
+runway three six center
+runway zero one
+runway zero two
+runway zero three
+runway zero four
+runway zero five
+runway zero six
+runway zero seven
+runway zero eight
+runway zero nine
+runway one zero
+runway one one
+runway one two
+runway one three
+runway one four
+runway one five
+runway one six
+runway one seven
+runway one eight
+runway one nine
+runway two zero
+runway two one
+runway two two
+runway two three
+runway two four
+runway two five
+runway two six
+runway two seven
+runway two eight
+runway two nine
+runway three zero
+runway three one
+runway three two
+runway three three
+runway three four
+runway three five
+runway three six
+runway one left
+runway one right
+runway one center
+runway two left
+runway two right
+runway two center
+runway three left
+runway three right
+runway three center
+runway four left
+runway four right
+runway four center
+runway five left
+runway five right
+runway five center
+runway six left
+runway six right
+runway six center
+runway seven left
+runway seven right
+runway seven center
+runway eight left
+runway eight right
+runway eight center
+runway nine left
+runway nine right
+runway nine center
+runway one one left
+runway one one right
+runway one one center
+runway one two left
+runway one two right
+runway one two center
+runway one three left
+runway one three right
+runway one three center
+runway one four left
+runway one four right
+runway one four center
+runway one five left
+runway one five right
+runway one five center
+runway one six left
+runway one six right
+runway one six center
+runway one seven left
+runway one seven right
+runway one seven center
+runway one eight left
+runway one eight right
+runway one eight center
+runway one nine left
+runway one nine right
+runway one nine center
+runway two zero left
+runway two zero right
+runway two zero center
+runway two one left
+runway two one right
+runway two one center
+runway two two left
+runway two two right
+runway two two center
+runway two three left
+runway two three right
+runway two three center
+runway two four left
+runway two four right
+runway two four center
+runway two five left
+runway two five right
+runway two five center
+runway two six left
+runway two six right
+runway two six center
+runway two seven left
+runway two seven right
+runway two seven center
+runway two eight left
+runway two eight right
+runway two eight center
+runway two nine left
+runway two nine right
+runway two nine center
+runway three zero left
+runway three zero right
+runway three zero center
+runway three one left
+runway three one right
+runway three one center
+runway three two left
+runway three two right
+runway three two center
+runway three three left
+runway three three right
+runway three three center
+runway three four left
+runway three four right
+runway three four center
+runway three five left
+runway three five right
+runway three five center
+runway three six left
+runway three six right
+runway three six center
+runway zero one
+runway zero two
+runway zero three
+runway zero four
+runway zero five
+runway zero six
+runway zero seven
+runway zero eight
+runway zero nine
+runway one zero
+runway one one
+runway one two
+runway one three
+runway one four
+runway one five
+runway one six
+runway one seven
+runway one eight
+runway one nine
+runway two zero
+runway two one
+runway two two
+runway two three
+runway two four
+runway two five
+runway two six
+runway two seven
+runway two eight
+runway two nine
+runway three zero
+runway three one
+runway three two
+runway three three
+runway three four
+runway three five
+runway three six
+runway one left
+runway one right
+runway one center
+runway two left
+runway two right
+runway two center
+runway three left
+runway three right
+runway three center
+runway four left
+runway four right
+runway four center
+runway five left
+runway five right
+runway five center
+runway six left
+runway six right
+runway six center
+runway seven left
+runway seven right
+runway seven center
+runway eight left
+runway eight right
+runway eight center
+runway nine left
+runway nine right
+runway nine center
+runway one one left
+runway one one right
+runway one one center
+runway one two left
+runway one two right
+runway one two center
+runway one three left
+runway one three right
+runway one three center
+runway one four left
+runway one four right
+runway one four center
+runway one five left
+runway one five right
+runway one five center
+runway one six left
+runway one six right
+runway one six center
+runway one seven left
+runway one seven right
+runway one seven center
+runway one eight left
+runway one eight right
+runway one eight center
+runway one nine left
+runway one nine right
+runway one nine center
+runway two zero left
+runway two zero right
+runway two zero center
+runway two one left
+runway two one right
+runway two one center
+runway two two left
+runway two two right
+runway two two center
+runway two three left
+runway two three right
+runway two three center
+runway two four left
+runway two four right
+runway two four center
+runway two five left
+runway two five right
+runway two five center
+runway two six left
+runway two six right
+runway two six center
+runway two seven left
+runway two seven right
+runway two seven center
+runway two eight left
+runway two eight right
+runway two eight center
+runway two nine left
+runway two nine right
+runway two nine center
+runway three zero left
+runway three zero right
+runway three zero center
+runway three one left
+runway three one right
+runway three one center
+runway three two left
+runway three two right
+runway three two center
+runway three three left
+runway three three right
+runway three three center
+runway three four left
+runway three four right
+runway three four center
+runway three five left
+runway three five right
+runway three five center
+runway three six left
+runway three six right
+runway three six center
+runway zero one
+runway zero two
+runway zero three
+runway zero four
+runway zero five
+runway zero six
+runway zero seven
+runway zero eight
+runway zero nine
+runway one zero
+runway one one
+runway one two
+runway one three
+runway one four
+runway one five
+runway one six
+runway one seven
+runway one eight
+runway one nine
+runway two zero
+runway two one
+runway two two
+runway two three
+runway two four
+runway two five
+runway two six
+runway two seven
+runway two eight
+runway two nine
+runway three zero
+runway three one
+runway three two
+runway three three
+runway three four
+runway three five
+runway three six
+runway one left
+runway one right
+runway one center
+runway two left
+runway two right
+runway two center
+runway three left
+runway three right
+runway three center
+runway four left
+runway four right
+runway four center
+runway five left
+runway five right
+runway five center
+runway six left
+runway six right
+runway six center
+runway seven left
+runway seven right
+runway seven center
+runway eight left
+runway eight right
+runway eight center
+runway nine left
+runway nine right
+runway nine center
+runway one one left
+runway one one right
+runway one one center
+runway one two left
+runway one two right
+runway one two center
+runway one three left
+runway one three right
+runway one three center
+runway one four left
+runway one four right
+runway one four center
+runway one five left
+runway one five right
+runway one five center
+runway one six left
+runway one six right
+runway one six center
+runway one seven left
+runway one seven right
+runway one seven center
+runway one eight left
+runway one eight right
+runway one eight center
+runway one nine left
+runway one nine right
+runway one nine center
+runway two zero left
+runway two zero right
+runway two zero center
+runway two one left
+runway two one right
+runway two one center
+runway two two left
+runway two two right
+runway two two center
+runway two three left
+runway two three right
+runway two three center
+runway two four left
+runway two four right
+runway two four center
+runway two five left
+runway two five right
+runway two five center
+runway two six left
+runway two six right
+runway two six center
+runway two seven left
+runway two seven right
+runway two seven center
+runway two eight left
+runway two eight right
+runway two eight center
+runway two nine left
+runway two nine right
+runway two nine center
+runway three zero left
+runway three zero right
+runway three zero center
+runway three one left
+runway three one right
+runway three one center
+runway three two left
+runway three two right
+runway three two center
+runway three three left
+runway three three right
+runway three three center
+runway three four left
+runway three four right
+runway three four center
+runway three five left
+runway three five right
+runway three five center
+runway three six left
+runway three six right
+runway three six center
+runway zero one
+runway zero two
+runway zero three
+runway zero four
+runway zero five
+runway zero six
+runway zero seven
+runway zero eight
+runway zero nine
+runway one zero
+runway one one
+runway one two
+runway one three
+runway one four
+runway one five
+runway one six
+runway one seven
+runway one eight
+runway one nine
+runway two zero
+runway two one
+runway two two
+runway two three
+runway two four
+runway two five
+runway two six
+runway two seven
+runway two eight
+runway two nine
+runway three zero
+runway three one
+runway three two
+runway three three
+runway three four
+runway three five
+runway three six
+runway one left
+runway one right
+runway one center
+runway two left
+runway two right
+runway two center
+runway three left
+runway three right
+runway three center
+runway four left
+runway four right
+runway four center
+runway five left
+runway five right
+runway five center
+runway six left
+runway six right
+runway six center
+runway seven left
+runway seven right
+runway seven center
+runway eight left
+runway eight right
+runway eight center
+runway nine left
+runway nine right
+runway nine center
+runway one one left
+runway one one right
+runway one one center
+runway one two left
+runway one two right
+runway one two center
+runway one three left
+runway one three right
+runway one three center
+runway one four left
+runway one four right
+runway one four center
+runway one five left
+runway one five right
+runway one five center
+runway one six left
+runway one six right
+runway one six center
+runway one seven left
+runway one seven right
+runway one seven center
+runway one eight left
+runway one eight right
+runway one eight center
+runway one nine left
+runway one nine right
+runway one nine center
+runway two zero left
+runway two zero right
+runway two zero center
+runway two one left
+runway two one right
+runway two one center
+runway two two left
+runway two two right
+runway two two center
+runway two three left
+runway two three right
+runway two three center
+runway two four left
+runway two four right
+runway two four center
+runway two five left
+runway two five right
+runway two five center
+runway two six left
+runway two six right
+runway two six center
+runway two seven left
+runway two seven right
+runway two seven center
+runway two eight left
+runway two eight right
+runway two eight center
+runway two nine left
+runway two nine right
+runway two nine center
+runway three zero left
+runway three zero right
+runway three zero center
+runway three one left
+runway three one right
+runway three one center
+runway three two left
+runway three two right
+runway three two center
+runway three three left
+runway three three right
+runway three three center
+runway three four left
+runway three four right
+runway three four center
+runway three five left
+runway three five right
+runway three five center
+runway three six left
+runway three six right
+runway three six center
+runway zero one
+runway zero two
+runway zero three
+runway zero four
+runway zero five
+runway zero six
+runway zero seven
+runway zero eight
+runway zero nine
+runway one zero
+runway one one
+runway one two
+runway one three
+runway one four
+runway one five
+runway one six
+runway one seven
+runway one eight
+runway one nine
+runway two zero
+runway two one
+runway two two
+runway two three
+runway two four
+runway two five
+runway two six
+runway two seven
+runway two eight
+runway two nine
+runway three zero
+runway three one
+runway three two
+runway three three
+runway three four
+runway three five
+runway three six
+runway one left
+runway one right
+runway one center
+runway two left
+runway two right
+runway two center
+runway three left
+runway three right
+runway three center
+runway four left
+runway four right
+runway four center
+runway five left
+runway five right
+runway five center
+runway six left
+runway six right
+runway six center
+runway seven left
+runway seven right
+runway seven center
+runway eight left
+runway eight right
+runway eight center
+runway nine left
+runway nine right
+runway nine center
+runway one one left
+runway one one right
+runway one one center
+runway one two left
+runway one two right
+runway one two center
+runway one three left
+runway one three right
+runway one three center
+runway one four left
+runway one four right
+runway one four center
+runway one five left
+runway one five right
+runway one five center
+runway one six left
+runway one six right
+runway one six center
+runway one seven left
+runway one seven right
+runway one seven center
+runway one eight left
+runway one eight right
+runway one eight center
+runway one nine left
+runway one nine right
+runway one nine center
+runway two zero left
+runway two zero right
+runway two zero center
+runway two one left
+runway two one right
+runway two one center
+runway two two left
+runway two two right
+runway two two center
+runway two three left
+runway two three right
+runway two three center
+runway two four left
+runway two four right
+runway two four center
+runway two five left
+runway two five right
+runway two five center
+runway two six left
+runway two six right
+runway two six center
+runway two seven left
+runway two seven right
+runway two seven center
+runway two eight left
+runway two eight right
+runway two eight center
+runway two nine left
+runway two nine right
+runway two nine center
+runway three zero left
+runway three zero right
+runway three zero center
+runway three one left
+runway three one right
+runway three one center
+runway three two left
+runway three two right
+runway three two center
+runway three three left
+runway three three right
+runway three three center
+runway three four left
+runway three four right
+runway three four center
+runway three five left
+runway three five right
+runway three five center
+runway three six left
+runway three six right
+runway three six center
+runway zero one cleared for takeoff
+runway zero two cleared for takeoff
+runway zero three cleared for takeoff
+runway zero four cleared for takeoff
+runway zero five cleared for takeoff
+runway zero six cleared for takeoff
+runway zero seven cleared for takeoff
+runway zero eight cleared for takeoff
+runway zero nine cleared for takeoff
+runway one zero cleared for takeoff
+runway one one cleared for takeoff
+runway one two cleared for takeoff
+runway one three cleared for takeoff
+runway one four cleared for takeoff
+runway one five cleared for takeoff
+runway one six cleared for takeoff
+runway one seven cleared for takeoff
+runway one eight cleared for takeoff
+runway one nine cleared for takeoff
+runway two zero cleared for takeoff
+runway two one cleared for takeoff
+runway two two cleared for takeoff
+runway two three cleared for takeoff
+runway two four cleared for takeoff
+runway two five cleared for takeoff
+runway two six cleared for takeoff
+runway two seven cleared for takeoff
+runway two eight cleared for takeoff
+runway two nine cleared for takeoff
+runway three zero cleared for takeoff
+runway three one cleared for takeoff
+runway three two cleared for takeoff
+runway three three cleared for takeoff
+runway three four cleared for takeoff
+runway three five cleared for takeoff
+runway three six cleared for takeoff
+runway one left cleared for takeoff
+runway one right cleared for takeoff
+runway one center cleared for takeoff
+runway two left cleared for takeoff
+runway two right cleared for takeoff
+runway two center cleared for takeoff
+runway three left cleared for takeoff
+runway three right cleared for takeoff
+runway three center cleared for takeoff
+runway four left cleared for takeoff
+runway four right cleared for takeoff
+runway four center cleared for takeoff
+runway five left cleared for takeoff
+runway five right cleared for takeoff
+runway five center cleared for takeoff
+runway six left cleared for takeoff
+runway six right cleared for takeoff
+runway six center cleared for takeoff
+runway seven left cleared for takeoff
+runway seven right cleared for takeoff
+runway seven center cleared for takeoff
+runway eight left cleared for takeoff
+runway eight right cleared for takeoff
+runway eight center cleared for takeoff
+runway nine left cleared for takeoff
+runway nine right cleared for takeoff
+runway nine center cleared for takeoff
+runway one one left cleared for takeoff
+runway one one right cleared for takeoff
+runway one one center cleared for takeoff
+runway one two left cleared for takeoff
+runway one two right cleared for takeoff
+runway one two center cleared for takeoff
+runway one three left cleared for takeoff
+runway one three right cleared for takeoff
+runway one three center cleared for takeoff
+runway one four left cleared for takeoff
+runway one four right cleared for takeoff
+runway one four center cleared for takeoff
+runway one five left cleared for takeoff
+runway one five right cleared for takeoff
+runway one five center cleared for takeoff
+runway one six left cleared for takeoff
+runway one six right cleared for takeoff
+runway one six center cleared for takeoff
+runway one seven left cleared for takeoff
+runway one seven right cleared for takeoff
+runway one seven center cleared for takeoff
+runway one eight left cleared for takeoff
+runway one eight right cleared for takeoff
+runway one eight center cleared for takeoff
+runway one nine left cleared for takeoff
+runway one nine right cleared for takeoff
+runway one nine center cleared for takeoff
+runway two zero left cleared for takeoff
+runway two zero right cleared for takeoff
+runway two zero center cleared for takeoff
+runway two one left cleared for takeoff
+runway two one right cleared for takeoff
+runway two one center cleared for takeoff
+runway two two left cleared for takeoff
+runway two two right cleared for takeoff
+runway two two center cleared for takeoff
+runway two three left cleared for takeoff
+runway two three right cleared for takeoff
+runway two three center cleared for takeoff
+runway two four left cleared for takeoff
+runway two four right cleared for takeoff
+runway two four center cleared for takeoff
+runway two five left cleared for takeoff
+runway two five right cleared for takeoff
+runway two five center cleared for takeoff
+runway two six left cleared for takeoff
+runway two six right cleared for takeoff
+runway two six center cleared for takeoff
+runway two seven left cleared for takeoff
+runway two seven right cleared for takeoff
+runway two seven center cleared for takeoff
+runway two eight left cleared for takeoff
+runway two eight right cleared for takeoff
+runway two eight center cleared for takeoff
+runway two nine left cleared for takeoff
+runway two nine right cleared for takeoff
+runway two nine center cleared for takeoff
+runway three zero left cleared for takeoff
+runway three zero right cleared for takeoff
+runway three zero center cleared for takeoff
+runway three one left cleared for takeoff
+runway three one right cleared for takeoff
+runway three one center cleared for takeoff
+runway three two left cleared for takeoff
+runway three two right cleared for takeoff
+runway three two center cleared for takeoff
+runway three three left cleared for takeoff
+runway three three right cleared for takeoff
+runway three three center cleared for takeoff
+runway three four left cleared for takeoff
+runway three four right cleared for takeoff
+runway three four center cleared for takeoff
+runway three five left cleared for takeoff
+runway three five right cleared for takeoff
+runway three five center cleared for takeoff
+runway three six left cleared for takeoff
+runway three six right cleared for takeoff
+runway three six center cleared for takeoff
+cleared for takeoff runway zero one
+cleared for takeoff runway zero two
+cleared for takeoff runway zero three
+cleared for takeoff runway zero four
+cleared for takeoff runway zero five
+cleared for takeoff runway zero six
+cleared for takeoff runway zero seven
+cleared for takeoff runway zero eight
+cleared for takeoff runway zero nine
+cleared for takeoff runway one zero
+cleared for takeoff runway one one
+cleared for takeoff runway one two
+cleared for takeoff runway one three
+cleared for takeoff runway one four
+cleared for takeoff runway one five
+cleared for takeoff runway one six
+cleared for takeoff runway one seven
+cleared for takeoff runway one eight
+cleared for takeoff runway one nine
+cleared for takeoff runway two zero
+cleared for takeoff runway two one
+cleared for takeoff runway two two
+cleared for takeoff runway two three
+cleared for takeoff runway two four
+cleared for takeoff runway two five
+cleared for takeoff runway two six
+cleared for takeoff runway two seven
+cleared for takeoff runway two eight
+cleared for takeoff runway two nine
+cleared for takeoff runway three zero
+cleared for takeoff runway three one
+cleared for takeoff runway three two
+cleared for takeoff runway three three
+cleared for takeoff runway three four
+cleared for takeoff runway three five
+cleared for takeoff runway three six
+cleared for takeoff runway one left
+cleared for takeoff runway one right
+cleared for takeoff runway one center
+cleared for takeoff runway two left
+cleared for takeoff runway two right
+cleared for takeoff runway two center
+cleared for takeoff runway three left
+cleared for takeoff runway three right
+cleared for takeoff runway three center
+cleared for takeoff runway four left
+cleared for takeoff runway four right
+cleared for takeoff runway four center
+cleared for takeoff runway five left
+cleared for takeoff runway five right
+cleared for takeoff runway five center
+cleared for takeoff runway six left
+cleared for takeoff runway six right
+cleared for takeoff runway six center
+cleared for takeoff runway seven left
+cleared for takeoff runway seven right
+cleared for takeoff runway seven center
+cleared for takeoff runway eight left
+cleared for takeoff runway eight right
+cleared for takeoff runway eight center
+cleared for takeoff runway nine left
+cleared for takeoff runway nine right
+cleared for takeoff runway nine center
+cleared for takeoff runway one one left
+cleared for takeoff runway one one right
+cleared for takeoff runway one one center
+cleared for takeoff runway one two left
+cleared for takeoff runway one two right
+cleared for takeoff runway one two center
+cleared for takeoff runway one three left
+cleared for takeoff runway one three right
+cleared for takeoff runway one three center
+cleared for takeoff runway one four left
+cleared for takeoff runway one four right
+cleared for takeoff runway one four center
+cleared for takeoff runway one five left
+cleared for takeoff runway one five right
+cleared for takeoff runway one five center
+cleared for takeoff runway one six left
+cleared for takeoff runway one six right
+cleared for takeoff runway one six center
+cleared for takeoff runway one seven left
+cleared for takeoff runway one seven right
+cleared for takeoff runway one seven center
+cleared for takeoff runway one eight left
+cleared for takeoff runway one eight right
+cleared for takeoff runway one eight center
+cleared for takeoff runway one nine left
+cleared for takeoff runway one nine right
+cleared for takeoff runway one nine center
+cleared for takeoff runway two zero left
+cleared for takeoff runway two zero right
+cleared for takeoff runway two zero center
+cleared for takeoff runway two one left
+cleared for takeoff runway two one right
+cleared for takeoff runway two one center
+cleared for takeoff runway two two left
+cleared for takeoff runway two two right
+cleared for takeoff runway two two center
+cleared for takeoff runway two three left
+cleared for takeoff runway two three right
+cleared for takeoff runway two three center
+cleared for takeoff runway two four left
+cleared for takeoff runway two four right
+cleared for takeoff runway two four center
+cleared for takeoff runway two five left
+cleared for takeoff runway two five right
+cleared for takeoff runway two five center
+cleared for takeoff runway two six left
+cleared for takeoff runway two six right
+cleared for takeoff runway two six center
+cleared for takeoff runway two seven left
+cleared for takeoff runway two seven right
+cleared for takeoff runway two seven center
+cleared for takeoff runway two eight left
+cleared for takeoff runway two eight right
+cleared for takeoff runway two eight center
+cleared for takeoff runway two nine left
+cleared for takeoff runway two nine right
+cleared for takeoff runway two nine center
+cleared for takeoff runway three zero left
+cleared for takeoff runway three zero right
+cleared for takeoff runway three zero center
+cleared for takeoff runway three one left
+cleared for takeoff runway three one right
+cleared for takeoff runway three one center
+cleared for takeoff runway three two left
+cleared for takeoff runway three two right
+cleared for takeoff runway three two center
+cleared for takeoff runway three three left
+cleared for takeoff runway three three right
+cleared for takeoff runway three three center
+cleared for takeoff runway three four left
+cleared for takeoff runway three four right
+cleared for takeoff runway three four center
+cleared for takeoff runway three five left
+cleared for takeoff runway three five right
+cleared for takeoff runway three five center
+cleared for takeoff runway three six left
+cleared for takeoff runway three six right
+cleared for takeoff runway three six center
+cleared for takeoff zero one
+cleared for takeoff zero two
+cleared for takeoff zero three
+cleared for takeoff zero four
+cleared for takeoff zero five
+cleared for takeoff zero six
+cleared for takeoff zero seven
+cleared for takeoff zero eight
+cleared for takeoff zero nine
+cleared for takeoff one zero
+cleared for takeoff one one
+cleared for takeoff one two
+cleared for takeoff one three
+cleared for takeoff one four
+cleared for takeoff one five
+cleared for takeoff one six
+cleared for takeoff one seven
+cleared for takeoff one eight
+cleared for takeoff one nine
+cleared for takeoff two zero
+cleared for takeoff two one
+cleared for takeoff two two
+cleared for takeoff two three
+cleared for takeoff two four
+cleared for takeoff two five
+cleared for takeoff two six
+cleared for takeoff two seven
+cleared for takeoff two eight
+cleared for takeoff two nine
+cleared for takeoff three zero
+cleared for takeoff three one
+cleared for takeoff three two
+cleared for takeoff three three
+cleared for takeoff three four
+cleared for takeoff three five
+cleared for takeoff three six
+cleared for takeoff one left
+cleared for takeoff one right
+cleared for takeoff one center
+cleared for takeoff two left
+cleared for takeoff two right
+cleared for takeoff two center
+cleared for takeoff three left
+cleared for takeoff three right
+cleared for takeoff three center
+cleared for takeoff four left
+cleared for takeoff four right
+cleared for takeoff four center
+cleared for takeoff five left
+cleared for takeoff five right
+cleared for takeoff five center
+cleared for takeoff six left
+cleared for takeoff six right
+cleared for takeoff six center
+cleared for takeoff seven left
+cleared for takeoff seven right
+cleared for takeoff seven center
+cleared for takeoff eight left
+cleared for takeoff eight right
+cleared for takeoff eight center
+cleared for takeoff nine left
+cleared for takeoff nine right
+cleared for takeoff nine center
+cleared for takeoff one one left
+cleared for takeoff one one right
+cleared for takeoff one one center
+cleared for takeoff one two left
+cleared for takeoff one two right
+cleared for takeoff one two center
+cleared for takeoff one three left
+cleared for takeoff one three right
+cleared for takeoff one three center
+cleared for takeoff one four left
+cleared for takeoff one four right
+cleared for takeoff one four center
+cleared for takeoff one five left
+cleared for takeoff one five right
+cleared for takeoff one five center
+cleared for takeoff one six left
+cleared for takeoff one six right
+cleared for takeoff one six center
+cleared for takeoff one seven left
+cleared for takeoff one seven right
+cleared for takeoff one seven center
+cleared for takeoff one eight left
+cleared for takeoff one eight right
+cleared for takeoff one eight center
+cleared for takeoff one nine left
+cleared for takeoff one nine right
+cleared for takeoff one nine center
+cleared for takeoff two zero left
+cleared for takeoff two zero right
+cleared for takeoff two zero center
+cleared for takeoff two one left
+cleared for takeoff two one right
+cleared for takeoff two one center
+cleared for takeoff two two left
+cleared for takeoff two two right
+cleared for takeoff two two center
+cleared for takeoff two three left
+cleared for takeoff two three right
+cleared for takeoff two three center
+cleared for takeoff two four left
+cleared for takeoff two four right
+cleared for takeoff two four center
+cleared for takeoff two five left
+cleared for takeoff two five right
+cleared for takeoff two five center
+cleared for takeoff two six left
+cleared for takeoff two six right
+cleared for takeoff two six center
+cleared for takeoff two seven left
+cleared for takeoff two seven right
+cleared for takeoff two seven center
+cleared for takeoff two eight left
+cleared for takeoff two eight right
+cleared for takeoff two eight center
+cleared for takeoff two nine left
+cleared for takeoff two nine right
+cleared for takeoff two nine center
+cleared for takeoff three zero left
+cleared for takeoff three zero right
+cleared for takeoff three zero center
+cleared for takeoff three one left
+cleared for takeoff three one right
+cleared for takeoff three one center
+cleared for takeoff three two left
+cleared for takeoff three two right
+cleared for takeoff three two center
+cleared for takeoff three three left
+cleared for takeoff three three right
+cleared for takeoff three three center
+cleared for takeoff three four left
+cleared for takeoff three four right
+cleared for takeoff three four center
+cleared for takeoff three five left
+cleared for takeoff three five right
+cleared for takeoff three five center
+cleared for takeoff three six left
+cleared for takeoff three six right
+cleared for takeoff three six center
+touch and go runway zero one
+touch and go runway zero two
+touch and go runway zero three
+touch and go runway zero four
+touch and go runway zero five
+touch and go runway zero six
+touch and go runway zero seven
+touch and go runway zero eight
+touch and go runway zero nine
+touch and go runway one zero
+touch and go runway one one
+touch and go runway one two
+touch and go runway one three
+touch and go runway one four
+touch and go runway one five
+touch and go runway one six
+touch and go runway one seven
+touch and go runway one eight
+touch and go runway one nine
+touch and go runway two zero
+touch and go runway two one
+touch and go runway two two
+touch and go runway two three
+touch and go runway two four
+touch and go runway two five
+touch and go runway two six
+touch and go runway two seven
+touch and go runway two eight
+touch and go runway two nine
+touch and go runway three zero
+touch and go runway three one
+touch and go runway three two
+touch and go runway three three
+touch and go runway three four
+touch and go runway three five
+touch and go runway three six
+touch and go runway one left
+touch and go runway one right
+touch and go runway one center
+touch and go runway two left
+touch and go runway two right
+touch and go runway two center
+touch and go runway three left
+touch and go runway three right
+touch and go runway three center
+touch and go runway four left
+touch and go runway four right
+touch and go runway four center
+touch and go runway five left
+touch and go runway five right
+touch and go runway five center
+touch and go runway six left
+touch and go runway six right
+touch and go runway six center
+touch and go runway seven left
+touch and go runway seven right
+touch and go runway seven center
+touch and go runway eight left
+touch and go runway eight right
+touch and go runway eight center
+touch and go runway nine left
+touch and go runway nine right
+touch and go runway nine center
+touch and go runway one one left
+touch and go runway one one right
+touch and go runway one one center
+touch and go runway one two left
+touch and go runway one two right
+touch and go runway one two center
+touch and go runway one three left
+touch and go runway one three right
+touch and go runway one three center
+touch and go runway one four left
+touch and go runway one four right
+touch and go runway one four center
+touch and go runway one five left
+touch and go runway one five right
+touch and go runway one five center
+touch and go runway one six left
+touch and go runway one six right
+touch and go runway one six center
+touch and go runway one seven left
+touch and go runway one seven right
+touch and go runway one seven center
+touch and go runway one eight left
+touch and go runway one eight right
+touch and go runway one eight center
+touch and go runway one nine left
+touch and go runway one nine right
+touch and go runway one nine center
+touch and go runway two zero left
+touch and go runway two zero right
+touch and go runway two zero center
+touch and go runway two one left
+touch and go runway two one right
+touch and go runway two one center
+touch and go runway two two left
+touch and go runway two two right
+touch and go runway two two center
+touch and go runway two three left
+touch and go runway two three right
+touch and go runway two three center
+touch and go runway two four left
+touch and go runway two four right
+touch and go runway two four center
+touch and go runway two five left
+touch and go runway two five right
+touch and go runway two five center
+touch and go runway two six left
+touch and go runway two six right
+touch and go runway two six center
+touch and go runway two seven left
+touch and go runway two seven right
+touch and go runway two seven center
+touch and go runway two eight left
+touch and go runway two eight right
+touch and go runway two eight center
+touch and go runway two nine left
+touch and go runway two nine right
+touch and go runway two nine center
+touch and go runway three zero left
+touch and go runway three zero right
+touch and go runway three zero center
+touch and go runway three one left
+touch and go runway three one right
+touch and go runway three one center
+touch and go runway three two left
+touch and go runway three two right
+touch and go runway three two center
+touch and go runway three three left
+touch and go runway three three right
+touch and go runway three three center
+touch and go runway three four left
+touch and go runway three four right
+touch and go runway three four center
+touch and go runway three five left
+touch and go runway three five right
+touch and go runway three five center
+touch and go runway three six left
+touch and go runway three six right
+touch and go runway three six center
+approach runway zero one
+approach runway zero two
+approach runway zero three
+approach runway zero four
+approach runway zero five
+approach runway zero six
+approach runway zero seven
+approach runway zero eight
+approach runway zero nine
+approach runway one zero
+approach runway one one
+approach runway one two
+approach runway one three
+approach runway one four
+approach runway one five
+approach runway one six
+approach runway one seven
+approach runway one eight
+approach runway one nine
+approach runway two zero
+approach runway two one
+approach runway two two
+approach runway two three
+approach runway two four
+approach runway two five
+approach runway two six
+approach runway two seven
+approach runway two eight
+approach runway two nine
+approach runway three zero
+approach runway three one
+approach runway three two
+approach runway three three
+approach runway three four
+approach runway three five
+approach runway three six
+approach runway one left
+approach runway one right
+approach runway one center
+approach runway two left
+approach runway two right
+approach runway two center
+approach runway three left
+approach runway three right
+approach runway three center
+approach runway four left
+approach runway four right
+approach runway four center
+approach runway five left
+approach runway five right
+approach runway five center
+approach runway six left
+approach runway six right
+approach runway six center
+approach runway seven left
+approach runway seven right
+approach runway seven center
+approach runway eight left
+approach runway eight right
+approach runway eight center
+approach runway nine left
+approach runway nine right
+approach runway nine center
+approach runway one one left
+approach runway one one right
+approach runway one one center
+approach runway one two left
+approach runway one two right
+approach runway one two center
+approach runway one three left
+approach runway one three right
+approach runway one three center
+approach runway one four left
+approach runway one four right
+approach runway one four center
+approach runway one five left
+approach runway one five right
+approach runway one five center
+approach runway one six left
+approach runway one six right
+approach runway one six center
+approach runway one seven left
+approach runway one seven right
+approach runway one seven center
+approach runway one eight left
+approach runway one eight right
+approach runway one eight center
+approach runway one nine left
+approach runway one nine right
+approach runway one nine center
+approach runway two zero left
+approach runway two zero right
+approach runway two zero center
+approach runway two one left
+approach runway two one right
+approach runway two one center
+approach runway two two left
+approach runway two two right
+approach runway two two center
+approach runway two three left
+approach runway two three right
+approach runway two three center
+approach runway two four left
+approach runway two four right
+approach runway two four center
+approach runway two five left
+approach runway two five right
+approach runway two five center
+approach runway two six left
+approach runway two six right
+approach runway two six center
+approach runway two seven left
+approach runway two seven right
+approach runway two seven center
+approach runway two eight left
+approach runway two eight right
+approach runway two eight center
+approach runway two nine left
+approach runway two nine right
+approach runway two nine center
+approach runway three zero left
+approach runway three zero right
+approach runway three zero center
+approach runway three one left
+approach runway three one right
+approach runway three one center
+approach runway three two left
+approach runway three two right
+approach runway three two center
+approach runway three three left
+approach runway three three right
+approach runway three three center
+approach runway three four left
+approach runway three four right
+approach runway three four center
+approach runway three five left
+approach runway three five right
+approach runway three five center
+approach runway three six left
+approach runway three six right
+approach runway three six center
+cleared to land runway zero one wind
+cleared to land runway zero two wind
+cleared to land runway zero three wind
+cleared to land runway zero four wind
+cleared to land runway zero five wind
+cleared to land runway zero six wind
+cleared to land runway zero seven wind
+cleared to land runway zero eight wind
+cleared to land runway zero nine wind
+cleared to land runway one zero wind
+cleared to land runway one one wind
+cleared to land runway one two wind
+cleared to land runway one three wind
+cleared to land runway one four wind
+cleared to land runway one five wind
+cleared to land runway one six wind
+cleared to land runway one seven wind
+cleared to land runway one eight wind
+cleared to land runway one nine wind
+cleared to land runway two zero wind
+cleared to land runway two one wind
+cleared to land runway two two wind
+cleared to land runway two three wind
+cleared to land runway two four wind
+cleared to land runway two five wind
+cleared to land runway two six wind
+cleared to land runway two seven wind
+cleared to land runway two eight wind
+cleared to land runway two nine wind
+cleared to land runway three zero wind
+cleared to land runway three one wind
+cleared to land runway three two wind
+cleared to land runway three three wind
+cleared to land runway three four wind
+cleared to land runway three five wind
+cleared to land runway three six wind
+cleared to land runway one left wind
+cleared to land runway one right wind
+cleared to land runway one center wind
+cleared to land runway two left wind
+cleared to land runway two right wind
+cleared to land runway two center wind
+cleared to land runway three left wind
+cleared to land runway three right wind
+cleared to land runway three center wind
+cleared to land runway four left wind
+cleared to land runway four right wind
+cleared to land runway four center wind
+cleared to land runway five left wind
+cleared to land runway five right wind
+cleared to land runway five center wind
+cleared to land runway six left wind
+cleared to land runway six right wind
+cleared to land runway six center wind
+cleared to land runway seven left wind
+cleared to land runway seven right wind
+cleared to land runway seven center wind
+cleared to land runway eight left wind
+cleared to land runway eight right wind
+cleared to land runway eight center wind
+cleared to land runway nine left wind
+cleared to land runway nine right wind
+cleared to land runway nine center wind
+cleared to land runway one one left wind
+cleared to land runway one one right wind
+cleared to land runway one one center wind
+cleared to land runway one two left wind
+cleared to land runway one two right wind
+cleared to land runway one two center wind
+cleared to land runway one three left wind
+cleared to land runway one three right wind
+cleared to land runway one three center wind
+cleared to land runway one four left wind
+cleared to land runway one four right wind
+cleared to land runway one four center wind
+cleared to land runway one five left wind
+cleared to land runway one five right wind
+cleared to land runway one five center wind
+cleared to land runway one six left wind
+cleared to land runway one six right wind
+cleared to land runway one six center wind
+cleared to land runway one seven left wind
+cleared to land runway one seven right wind
+cleared to land runway one seven center wind
+cleared to land runway one eight left wind
+cleared to land runway one eight right wind
+cleared to land runway one eight center wind
+cleared to land runway one nine left wind
+cleared to land runway one nine right wind
+cleared to land runway one nine center wind
+cleared to land runway two zero left wind
+cleared to land runway two zero right wind
+cleared to land runway two zero center wind
+cleared to land runway two one left wind
+cleared to land runway two one right wind
+cleared to land runway two one center wind
+cleared to land runway two two left wind
+cleared to land runway two two right wind
+cleared to land runway two two center wind
+cleared to land runway two three left wind
+cleared to land runway two three right wind
+cleared to land runway two three center wind
+cleared to land runway two four left wind
+cleared to land runway two four right wind
+cleared to land runway two four center wind
+cleared to land runway two five left wind
+cleared to land runway two five right wind
+cleared to land runway two five center wind
+cleared to land runway two six left wind
+cleared to land runway two six right wind
+cleared to land runway two six center wind
+cleared to land runway two seven left wind
+cleared to land runway two seven right wind
+cleared to land runway two seven center wind
+cleared to land runway two eight left wind
+cleared to land runway two eight right wind
+cleared to land runway two eight center wind
+cleared to land runway two nine left wind
+cleared to land runway two nine right wind
+cleared to land runway two nine center wind
+cleared to land runway three zero left wind
+cleared to land runway three zero right wind
+cleared to land runway three zero center wind
+cleared to land runway three one left wind
+cleared to land runway three one right wind
+cleared to land runway three one center wind
+cleared to land runway three two left wind
+cleared to land runway three two right wind
+cleared to land runway three two center wind
+cleared to land runway three three left wind
+cleared to land runway three three right wind
+cleared to land runway three three center wind
+cleared to land runway three four left wind
+cleared to land runway three four right wind
+cleared to land runway three four center wind
+cleared to land runway three five left wind
+cleared to land runway three five right wind
+cleared to land runway three five center wind
+cleared to land runway three six left wind
+cleared to land runway three six right wind
+cleared to land runway three six center wind
+land runway zero one
+land runway zero two
+land runway zero three
+land runway zero four
+land runway zero five
+land runway zero six
+land runway zero seven
+land runway zero eight
+land runway zero nine
+land runway one zero
+land runway one one
+land runway one two
+land runway one three
+land runway one four
+land runway one five
+land runway one six
+land runway one seven
+land runway one eight
+land runway one nine
+land runway two zero
+land runway two one
+land runway two two
+land runway two three
+land runway two four
+land runway two five
+land runway two six
+land runway two seven
+land runway two eight
+land runway two nine
+land runway three zero
+land runway three one
+land runway three two
+land runway three three
+land runway three four
+land runway three five
+land runway three six
+land runway one left
+land runway one right
+land runway one center
+land runway two left
+land runway two right
+land runway two center
+land runway three left
+land runway three right
+land runway three center
+land runway four left
+land runway four right
+land runway four center
+land runway five left
+land runway five right
+land runway five center
+land runway six left
+land runway six right
+land runway six center
+land runway seven left
+land runway seven right
+land runway seven center
+land runway eight left
+land runway eight right
+land runway eight center
+land runway nine left
+land runway nine right
+land runway nine center
+land runway one one left
+land runway one one right
+land runway one one center
+land runway one two left
+land runway one two right
+land runway one two center
+land runway one three left
+land runway one three right
+land runway one three center
+land runway one four left
+land runway one four right
+land runway one four center
+land runway one five left
+land runway one five right
+land runway one five center
+land runway one six left
+land runway one six right
+land runway one six center
+land runway one seven left
+land runway one seven right
+land runway one seven center
+land runway one eight left
+land runway one eight right
+land runway one eight center
+land runway one nine left
+land runway one nine right
+land runway one nine center
+land runway two zero left
+land runway two zero right
+land runway two zero center
+land runway two one left
+land runway two one right
+land runway two one center
+land runway two two left
+land runway two two right
+land runway two two center
+land runway two three left
+land runway two three right
+land runway two three center
+land runway two four left
+land runway two four right
+land runway two four center
+land runway two five left
+land runway two five right
+land runway two five center
+land runway two six left
+land runway two six right
+land runway two six center
+land runway two seven left
+land runway two seven right
+land runway two seven center
+land runway two eight left
+land runway two eight right
+land runway two eight center
+land runway two nine left
+land runway two nine right
+land runway two nine center
+land runway three zero left
+land runway three zero right
+land runway three zero center
+land runway three one left
+land runway three one right
+land runway three one center
+land runway three two left
+land runway three two right
+land runway three two center
+land runway three three left
+land runway three three right
+land runway three three center
+land runway three four left
+land runway three four right
+land runway three four center
+land runway three five left
+land runway three five right
+land runway three five center
+land runway three six left
+land runway three six right
+land runway three six center
+runway zero one cleared to land
+runway zero two cleared to land
+runway zero three cleared to land
+runway zero four cleared to land
+runway zero five cleared to land
+runway zero six cleared to land
+runway zero seven cleared to land
+runway zero eight cleared to land
+runway zero nine cleared to land
+runway one zero cleared to land
+runway one one cleared to land
+runway one two cleared to land
+runway one three cleared to land
+runway one four cleared to land
+runway one five cleared to land
+runway one six cleared to land
+runway one seven cleared to land
+runway one eight cleared to land
+runway one nine cleared to land
+runway two zero cleared to land
+runway two one cleared to land
+runway two two cleared to land
+runway two three cleared to land
+runway two four cleared to land
+runway two five cleared to land
+runway two six cleared to land
+runway two seven cleared to land
+runway two eight cleared to land
+runway two nine cleared to land
+runway three zero cleared to land
+runway three one cleared to land
+runway three two cleared to land
+runway three three cleared to land
+runway three four cleared to land
+runway three five cleared to land
+runway three six cleared to land
+runway one left cleared to land
+runway one right cleared to land
+runway one center cleared to land
+runway two left cleared to land
+runway two right cleared to land
+runway two center cleared to land
+runway three left cleared to land
+runway three right cleared to land
+runway three center cleared to land
+runway four left cleared to land
+runway four right cleared to land
+runway four center cleared to land
+runway five left cleared to land
+runway five right cleared to land
+runway five center cleared to land
+runway six left cleared to land
+runway six right cleared to land
+runway six center cleared to land
+runway seven left cleared to land
+runway seven right cleared to land
+runway seven center cleared to land
+runway eight left cleared to land
+runway eight right cleared to land
+runway eight center cleared to land
+runway nine left cleared to land
+runway nine right cleared to land
+runway nine center cleared to land
+runway one one left cleared to land
+runway one one right cleared to land
+runway one one center cleared to land
+runway one two left cleared to land
+runway one two right cleared to land
+runway one two center cleared to land
+runway one three left cleared to land
+runway one three right cleared to land
+runway one three center cleared to land
+runway one four left cleared to land
+runway one four right cleared to land
+runway one four center cleared to land
+runway one five left cleared to land
+runway one five right cleared to land
+runway one five center cleared to land
+runway one six left cleared to land
+runway one six right cleared to land
+runway one six center cleared to land
+runway one seven left cleared to land
+runway one seven right cleared to land
+runway one seven center cleared to land
+runway one eight left cleared to land
+runway one eight right cleared to land
+runway one eight center cleared to land
+runway one nine left cleared to land
+runway one nine right cleared to land
+runway one nine center cleared to land
+runway two zero left cleared to land
+runway two zero right cleared to land
+runway two zero center cleared to land
+runway two one left cleared to land
+runway two one right cleared to land
+runway two one center cleared to land
+runway two two left cleared to land
+runway two two right cleared to land
+runway two two center cleared to land
+runway two three left cleared to land
+runway two three right cleared to land
+runway two three center cleared to land
+runway two four left cleared to land
+runway two four right cleared to land
+runway two four center cleared to land
+runway two five left cleared to land
+runway two five right cleared to land
+runway two five center cleared to land
+runway two six left cleared to land
+runway two six right cleared to land
+runway two six center cleared to land
+runway two seven left cleared to land
+runway two seven right cleared to land
+runway two seven center cleared to land
+runway two eight left cleared to land
+runway two eight right cleared to land
+runway two eight center cleared to land
+runway two nine left cleared to land
+runway two nine right cleared to land
+runway two nine center cleared to land
+runway three zero left cleared to land
+runway three zero right cleared to land
+runway three zero center cleared to land
+runway three one left cleared to land
+runway three one right cleared to land
+runway three one center cleared to land
+runway three two left cleared to land
+runway three two right cleared to land
+runway three two center cleared to land
+runway three three left cleared to land
+runway three three right cleared to land
+runway three three center cleared to land
+runway three four left cleared to land
+runway three four right cleared to land
+runway three four center cleared to land
+runway three five left cleared to land
+runway three five right cleared to land
+runway three five center cleared to land
+runway three six left cleared to land
+runway three six right cleared to land
+runway three six center cleared to land
+runway zero one cleared for takeoff
+runway zero two cleared for takeoff
+runway zero three cleared for takeoff
+runway zero four cleared for takeoff
+runway zero five cleared for takeoff
+runway zero six cleared for takeoff
+runway zero seven cleared for takeoff
+runway zero eight cleared for takeoff
+runway zero nine cleared for takeoff
+runway one zero cleared for takeoff
+runway one one cleared for takeoff
+runway one two cleared for takeoff
+runway one three cleared for takeoff
+runway one four cleared for takeoff
+runway one five cleared for takeoff
+runway one six cleared for takeoff
+runway one seven cleared for takeoff
+runway one eight cleared for takeoff
+runway one nine cleared for takeoff
+runway two zero cleared for takeoff
+runway two one cleared for takeoff
+runway two two cleared for takeoff
+runway two three cleared for takeoff
+runway two four cleared for takeoff
+runway two five cleared for takeoff
+runway two six cleared for takeoff
+runway two seven cleared for takeoff
+runway two eight cleared for takeoff
+runway two nine cleared for takeoff
+runway three zero cleared for takeoff
+runway three one cleared for takeoff
+runway three two cleared for takeoff
+runway three three cleared for takeoff
+runway three four cleared for takeoff
+runway three five cleared for takeoff
+runway three six cleared for takeoff
+runway one left cleared for takeoff
+runway one right cleared for takeoff
+runway one center cleared for takeoff
+runway two left cleared for takeoff
+runway two right cleared for takeoff
+runway two center cleared for takeoff
+runway three left cleared for takeoff
+runway three right cleared for takeoff
+runway three center cleared for takeoff
+runway four left cleared for takeoff
+runway four right cleared for takeoff
+runway four center cleared for takeoff
+runway five left cleared for takeoff
+runway five right cleared for takeoff
+runway five center cleared for takeoff
+runway six left cleared for takeoff
+runway six right cleared for takeoff
+runway six center cleared for takeoff
+runway seven left cleared for takeoff
+runway seven right cleared for takeoff
+runway seven center cleared for takeoff
+runway eight left cleared for takeoff
+runway eight right cleared for takeoff
+runway eight center cleared for takeoff
+runway nine left cleared for takeoff
+runway nine right cleared for takeoff
+runway nine center cleared for takeoff
+runway one one left cleared for takeoff
+runway one one right cleared for takeoff
+runway one one center cleared for takeoff
+runway one two left cleared for takeoff
+runway one two right cleared for takeoff
+runway one two center cleared for takeoff
+runway one three left cleared for takeoff
+runway one three right cleared for takeoff
+runway one three center cleared for takeoff
+runway one four left cleared for takeoff
+runway one four right cleared for takeoff
+runway one four center cleared for takeoff
+runway one five left cleared for takeoff
+runway one five right cleared for takeoff
+runway one five center cleared for takeoff
+runway one six left cleared for takeoff
+runway one six right cleared for takeoff
+runway one six center cleared for takeoff
+runway one seven left cleared for takeoff
+runway one seven right cleared for takeoff
+runway one seven center cleared for takeoff
+runway one eight left cleared for takeoff
+runway one eight right cleared for takeoff
+runway one eight center cleared for takeoff
+runway one nine left cleared for takeoff
+runway one nine right cleared for takeoff
+runway one nine center cleared for takeoff
+runway two zero left cleared for takeoff
+runway two zero right cleared for takeoff
+runway two zero center cleared for takeoff
+runway two one left cleared for takeoff
+runway two one right cleared for takeoff
+runway two one center cleared for takeoff
+runway two two left cleared for takeoff
+runway two two right cleared for takeoff
+runway two two center cleared for takeoff
+runway two three left cleared for takeoff
+runway two three right cleared for takeoff
+runway two three center cleared for takeoff
+runway two four left cleared for takeoff
+runway two four right cleared for takeoff
+runway two four center cleared for takeoff
+runway two five left cleared for takeoff
+runway two five right cleared for takeoff
+runway two five center cleared for takeoff
+runway two six left cleared for takeoff
+runway two six right cleared for takeoff
+runway two six center cleared for takeoff
+runway two seven left cleared for takeoff
+runway two seven right cleared for takeoff
+runway two seven center cleared for takeoff
+runway two eight left cleared for takeoff
+runway two eight right cleared for takeoff
+runway two eight center cleared for takeoff
+runway two nine left cleared for takeoff
+runway two nine right cleared for takeoff
+runway two nine center cleared for takeoff
+runway three zero left cleared for takeoff
+runway three zero right cleared for takeoff
+runway three zero center cleared for takeoff
+runway three one left cleared for takeoff
+runway three one right cleared for takeoff
+runway three one center cleared for takeoff
+runway three two left cleared for takeoff
+runway three two right cleared for takeoff
+runway three two center cleared for takeoff
+runway three three left cleared for takeoff
+runway three three right cleared for takeoff
+runway three three center cleared for takeoff
+runway three four left cleared for takeoff
+runway three four right cleared for takeoff
+runway three four center cleared for takeoff
+runway three five left cleared for takeoff
+runway three five right cleared for takeoff
+runway three five center cleared for takeoff
+runway three six left cleared for takeoff
+runway three six right cleared for takeoff
+runway three six center cleared for takeoff
+cleared for takeoff runway zero one
+cleared for takeoff runway zero two
+cleared for takeoff runway zero three
+cleared for takeoff runway zero four
+cleared for takeoff runway zero five
+cleared for takeoff runway zero six
+cleared for takeoff runway zero seven
+cleared for takeoff runway zero eight
+cleared for takeoff runway zero nine
+cleared for takeoff runway one zero
+cleared for takeoff runway one one
+cleared for takeoff runway one two
+cleared for takeoff runway one three
+cleared for takeoff runway one four
+cleared for takeoff runway one five
+cleared for takeoff runway one six
+cleared for takeoff runway one seven
+cleared for takeoff runway one eight
+cleared for takeoff runway one nine
+cleared for takeoff runway two zero
+cleared for takeoff runway two one
+cleared for takeoff runway two two
+cleared for takeoff runway two three
+cleared for takeoff runway two four
+cleared for takeoff runway two five
+cleared for takeoff runway two six
+cleared for takeoff runway two seven
+cleared for takeoff runway two eight
+cleared for takeoff runway two nine
+cleared for takeoff runway three zero
+cleared for takeoff runway three one
+cleared for takeoff runway three two
+cleared for takeoff runway three three
+cleared for takeoff runway three four
+cleared for takeoff runway three five
+cleared for takeoff runway three six
+cleared for takeoff runway one left
+cleared for takeoff runway one right
+cleared for takeoff runway one center
+cleared for takeoff runway two left
+cleared for takeoff runway two right
+cleared for takeoff runway two center
+cleared for takeoff runway three left
+cleared for takeoff runway three right
+cleared for takeoff runway three center
+cleared for takeoff runway four left
+cleared for takeoff runway four right
+cleared for takeoff runway four center
+cleared for takeoff runway five left
+cleared for takeoff runway five right
+cleared for takeoff runway five center
+cleared for takeoff runway six left
+cleared for takeoff runway six right
+cleared for takeoff runway six center
+cleared for takeoff runway seven left
+cleared for takeoff runway seven right
+cleared for takeoff runway seven center
+cleared for takeoff runway eight left
+cleared for takeoff runway eight right
+cleared for takeoff runway eight center
+cleared for takeoff runway nine left
+cleared for takeoff runway nine right
+cleared for takeoff runway nine center
+cleared for takeoff runway one one left
+cleared for takeoff runway one one right
+cleared for takeoff runway one one center
+cleared for takeoff runway one two left
+cleared for takeoff runway one two right
+cleared for takeoff runway one two center
+cleared for takeoff runway one three left
+cleared for takeoff runway one three right
+cleared for takeoff runway one three center
+cleared for takeoff runway one four left
+cleared for takeoff runway one four right
+cleared for takeoff runway one four center
+cleared for takeoff runway one five left
+cleared for takeoff runway one five right
+cleared for takeoff runway one five center
+cleared for takeoff runway one six left
+cleared for takeoff runway one six right
+cleared for takeoff runway one six center
+cleared for takeoff runway one seven left
+cleared for takeoff runway one seven right
+cleared for takeoff runway one seven center
+cleared for takeoff runway one eight left
+cleared for takeoff runway one eight right
+cleared for takeoff runway one eight center
+cleared for takeoff runway one nine left
+cleared for takeoff runway one nine right
+cleared for takeoff runway one nine center
+cleared for takeoff runway two zero left
+cleared for takeoff runway two zero right
+cleared for takeoff runway two zero center
+cleared for takeoff runway two one left
+cleared for takeoff runway two one right
+cleared for takeoff runway two one center
+cleared for takeoff runway two two left
+cleared for takeoff runway two two right
+cleared for takeoff runway two two center
+cleared for takeoff runway two three left
+cleared for takeoff runway two three right
+cleared for takeoff runway two three center
+cleared for takeoff runway two four left
+cleared for takeoff runway two four right
+cleared for takeoff runway two four center
+cleared for takeoff runway two five left
+cleared for takeoff runway two five right
+cleared for takeoff runway two five center
+cleared for takeoff runway two six left
+cleared for takeoff runway two six right
+cleared for takeoff runway two six center
+cleared for takeoff runway two seven left
+cleared for takeoff runway two seven right
+cleared for takeoff runway two seven center
+cleared for takeoff runway two eight left
+cleared for takeoff runway two eight right
+cleared for takeoff runway two eight center
+cleared for takeoff runway two nine left
+cleared for takeoff runway two nine right
+cleared for takeoff runway two nine center
+cleared for takeoff runway three zero left
+cleared for takeoff runway three zero right
+cleared for takeoff runway three zero center
+cleared for takeoff runway three one left
+cleared for takeoff runway three one right
+cleared for takeoff runway three one center
+cleared for takeoff runway three two left
+cleared for takeoff runway three two right
+cleared for takeoff runway three two center
+cleared for takeoff runway three three left
+cleared for takeoff runway three three right
+cleared for takeoff runway three three center
+cleared for takeoff runway three four left
+cleared for takeoff runway three four right
+cleared for takeoff runway three four center
+cleared for takeoff runway three five left
+cleared for takeoff runway three five right
+cleared for takeoff runway three five center
+cleared for takeoff runway three six left
+cleared for takeoff runway three six right
+cleared for takeoff runway three six center
+cleared for takeoff zero one
+cleared for takeoff zero two
+cleared for takeoff zero three
+cleared for takeoff zero four
+cleared for takeoff zero five
+cleared for takeoff zero six
+cleared for takeoff zero seven
+cleared for takeoff zero eight
+cleared for takeoff zero nine
+cleared for takeoff one zero
+cleared for takeoff one one
+cleared for takeoff one two
+cleared for takeoff one three
+cleared for takeoff one four
+cleared for takeoff one five
+cleared for takeoff one six
+cleared for takeoff one seven
+cleared for takeoff one eight
+cleared for takeoff one nine
+cleared for takeoff two zero
+cleared for takeoff two one
+cleared for takeoff two two
+cleared for takeoff two three
+cleared for takeoff two four
+cleared for takeoff two five
+cleared for takeoff two six
+cleared for takeoff two seven
+cleared for takeoff two eight
+cleared for takeoff two nine
+cleared for takeoff three zero
+cleared for takeoff three one
+cleared for takeoff three two
+cleared for takeoff three three
+cleared for takeoff three four
+cleared for takeoff three five
+cleared for takeoff three six
+cleared for takeoff one left
+cleared for takeoff one right
+cleared for takeoff one center
+cleared for takeoff two left
+cleared for takeoff two right
+cleared for takeoff two center
+cleared for takeoff three left
+cleared for takeoff three right
+cleared for takeoff three center
+cleared for takeoff four left
+cleared for takeoff four right
+cleared for takeoff four center
+cleared for takeoff five left
+cleared for takeoff five right
+cleared for takeoff five center
+cleared for takeoff six left
+cleared for takeoff six right
+cleared for takeoff six center
+cleared for takeoff seven left
+cleared for takeoff seven right
+cleared for takeoff seven center
+cleared for takeoff eight left
+cleared for takeoff eight right
+cleared for takeoff eight center
+cleared for takeoff nine left
+cleared for takeoff nine right
+cleared for takeoff nine center
+cleared for takeoff one one left
+cleared for takeoff one one right
+cleared for takeoff one one center
+cleared for takeoff one two left
+cleared for takeoff one two right
+cleared for takeoff one two center
+cleared for takeoff one three left
+cleared for takeoff one three right
+cleared for takeoff one three center
+cleared for takeoff one four left
+cleared for takeoff one four right
+cleared for takeoff one four center
+cleared for takeoff one five left
+cleared for takeoff one five right
+cleared for takeoff one five center
+cleared for takeoff one six left
+cleared for takeoff one six right
+cleared for takeoff one six center
+cleared for takeoff one seven left
+cleared for takeoff one seven right
+cleared for takeoff one seven center
+cleared for takeoff one eight left
+cleared for takeoff one eight right
+cleared for takeoff one eight center
+cleared for takeoff one nine left
+cleared for takeoff one nine right
+cleared for takeoff one nine center
+cleared for takeoff two zero left
+cleared for takeoff two zero right
+cleared for takeoff two zero center
+cleared for takeoff two one left
+cleared for takeoff two one right
+cleared for takeoff two one center
+cleared for takeoff two two left
+cleared for takeoff two two right
+cleared for takeoff two two center
+cleared for takeoff two three left
+cleared for takeoff two three right
+cleared for takeoff two three center
+cleared for takeoff two four left
+cleared for takeoff two four right
+cleared for takeoff two four center
+cleared for takeoff two five left
+cleared for takeoff two five right
+cleared for takeoff two five center
+cleared for takeoff two six left
+cleared for takeoff two six right
+cleared for takeoff two six center
+cleared for takeoff two seven left
+cleared for takeoff two seven right
+cleared for takeoff two seven center
+cleared for takeoff two eight left
+cleared for takeoff two eight right
+cleared for takeoff two eight center
+cleared for takeoff two nine left
+cleared for takeoff two nine right
+cleared for takeoff two nine center
+cleared for takeoff three zero left
+cleared for takeoff three zero right
+cleared for takeoff three zero center
+cleared for takeoff three one left
+cleared for takeoff three one right
+cleared for takeoff three one center
+cleared for takeoff three two left
+cleared for takeoff three two right
+cleared for takeoff three two center
+cleared for takeoff three three left
+cleared for takeoff three three right
+cleared for takeoff three three center
+cleared for takeoff three four left
+cleared for takeoff three four right
+cleared for takeoff three four center
+cleared for takeoff three five left
+cleared for takeoff three five right
+cleared for takeoff three five center
+cleared for takeoff three six left
+cleared for takeoff three six right
+cleared for takeoff three six center
+touch and go runway zero one
+touch and go runway zero two
+touch and go runway zero three
+touch and go runway zero four
+touch and go runway zero five
+touch and go runway zero six
+touch and go runway zero seven
+touch and go runway zero eight
+touch and go runway zero nine
+touch and go runway one zero
+touch and go runway one one
+touch and go runway one two
+touch and go runway one three
+touch and go runway one four
+touch and go runway one five
+touch and go runway one six
+touch and go runway one seven
+touch and go runway one eight
+touch and go runway one nine
+touch and go runway two zero
+touch and go runway two one
+touch and go runway two two
+touch and go runway two three
+touch and go runway two four
+touch and go runway two five
+touch and go runway two six
+touch and go runway two seven
+touch and go runway two eight
+touch and go runway two nine
+touch and go runway three zero
+touch and go runway three one
+touch and go runway three two
+touch and go runway three three
+touch and go runway three four
+touch and go runway three five
+touch and go runway three six
+touch and go runway one left
+touch and go runway one right
+touch and go runway one center
+touch and go runway two left
+touch and go runway two right
+touch and go runway two center
+touch and go runway three left
+touch and go runway three right
+touch and go runway three center
+touch and go runway four left
+touch and go runway four right
+touch and go runway four center
+touch and go runway five left
+touch and go runway five right
+touch and go runway five center
+touch and go runway six left
+touch and go runway six right
+touch and go runway six center
+touch and go runway seven left
+touch and go runway seven right
+touch and go runway seven center
+touch and go runway eight left
+touch and go runway eight right
+touch and go runway eight center
+touch and go runway nine left
+touch and go runway nine right
+touch and go runway nine center
+touch and go runway one one left
+touch and go runway one one right
+touch and go runway one one center
+touch and go runway one two left
+touch and go runway one two right
+touch and go runway one two center
+touch and go runway one three left
+touch and go runway one three right
+touch and go runway one three center
+touch and go runway one four left
+touch and go runway one four right
+touch and go runway one four center
+touch and go runway one five left
+touch and go runway one five right
+touch and go runway one five center
+touch and go runway one six left
+touch and go runway one six right
+touch and go runway one six center
+touch and go runway one seven left
+touch and go runway one seven right
+touch and go runway one seven center
+touch and go runway one eight left
+touch and go runway one eight right
+touch and go runway one eight center
+touch and go runway one nine left
+touch and go runway one nine right
+touch and go runway one nine center
+touch and go runway two zero left
+touch and go runway two zero right
+touch and go runway two zero center
+touch and go runway two one left
+touch and go runway two one right
+touch and go runway two one center
+touch and go runway two two left
+touch and go runway two two right
+touch and go runway two two center
+touch and go runway two three left
+touch and go runway two three right
+touch and go runway two three center
+touch and go runway two four left
+touch and go runway two four right
+touch and go runway two four center
+touch and go runway two five left
+touch and go runway two five right
+touch and go runway two five center
+touch and go runway two six left
+touch and go runway two six right
+touch and go runway two six center
+touch and go runway two seven left
+touch and go runway two seven right
+touch and go runway two seven center
+touch and go runway two eight left
+touch and go runway two eight right
+touch and go runway two eight center
+touch and go runway two nine left
+touch and go runway two nine right
+touch and go runway two nine center
+touch and go runway three zero left
+touch and go runway three zero right
+touch and go runway three zero center
+touch and go runway three one left
+touch and go runway three one right
+touch and go runway three one center
+touch and go runway three two left
+touch and go runway three two right
+touch and go runway three two center
+touch and go runway three three left
+touch and go runway three three right
+touch and go runway three three center
+touch and go runway three four left
+touch and go runway three four right
+touch and go runway three four center
+touch and go runway three five left
+touch and go runway three five right
+touch and go runway three five center
+touch and go runway three six left
+touch and go runway three six right
+touch and go runway three six center
+approach runway zero one
+approach runway zero two
+approach runway zero three
+approach runway zero four
+approach runway zero five
+approach runway zero six
+approach runway zero seven
+approach runway zero eight
+approach runway zero nine
+approach runway one zero
+approach runway one one
+approach runway one two
+approach runway one three
+approach runway one four
+approach runway one five
+approach runway one six
+approach runway one seven
+approach runway one eight
+approach runway one nine
+approach runway two zero
+approach runway two one
+approach runway two two
+approach runway two three
+approach runway two four
+approach runway two five
+approach runway two six
+approach runway two seven
+approach runway two eight
+approach runway two nine
+approach runway three zero
+approach runway three one
+approach runway three two
+approach runway three three
+approach runway three four
+approach runway three five
+approach runway three six
+approach runway one left
+approach runway one right
+approach runway one center
+approach runway two left
+approach runway two right
+approach runway two center
+approach runway three left
+approach runway three right
+approach runway three center
+approach runway four left
+approach runway four right
+approach runway four center
+approach runway five left
+approach runway five right
+approach runway five center
+approach runway six left
+approach runway six right
+approach runway six center
+approach runway seven left
+approach runway seven right
+approach runway seven center
+approach runway eight left
+approach runway eight right
+approach runway eight center
+approach runway nine left
+approach runway nine right
+approach runway nine center
+approach runway one one left
+approach runway one one right
+approach runway one one center
+approach runway one two left
+approach runway one two right
+approach runway one two center
+approach runway one three left
+approach runway one three right
+approach runway one three center
+approach runway one four left
+approach runway one four right
+approach runway one four center
+approach runway one five left
+approach runway one five right
+approach runway one five center
+approach runway one six left
+approach runway one six right
+approach runway one six center
+approach runway one seven left
+approach runway one seven right
+approach runway one seven center
+approach runway one eight left
+approach runway one eight right
+approach runway one eight center
+approach runway one nine left
+approach runway one nine right
+approach runway one nine center
+approach runway two zero left
+approach runway two zero right
+approach runway two zero center
+approach runway two one left
+approach runway two one right
+approach runway two one center
+approach runway two two left
+approach runway two two right
+approach runway two two center
+approach runway two three left
+approach runway two three right
+approach runway two three center
+approach runway two four left
+approach runway two four right
+approach runway two four center
+approach runway two five left
+approach runway two five right
+approach runway two five center
+approach runway two six left
+approach runway two six right
+approach runway two six center
+approach runway two seven left
+approach runway two seven right
+approach runway two seven center
+approach runway two eight left
+approach runway two eight right
+approach runway two eight center
+approach runway two nine left
+approach runway two nine right
+approach runway two nine center
+approach runway three zero left
+approach runway three zero right
+approach runway three zero center
+approach runway three one left
+approach runway three one right
+approach runway three one center
+approach runway three two left
+approach runway three two right
+approach runway three two center
+approach runway three three left
+approach runway three three right
+approach runway three three center
+approach runway three four left
+approach runway three four right
+approach runway three four center
+approach runway three five left
+approach runway three five right
+approach runway three five center
+approach runway three six left
+approach runway three six right
+approach runway three six center
+cleared to land runway zero one wind
+cleared to land runway zero two wind
+cleared to land runway zero three wind
+cleared to land runway zero four wind
+cleared to land runway zero five wind
+cleared to land runway zero six wind
+cleared to land runway zero seven wind
+cleared to land runway zero eight wind
+cleared to land runway zero nine wind
+cleared to land runway one zero wind
+cleared to land runway one one wind
+cleared to land runway one two wind
+cleared to land runway one three wind
+cleared to land runway one four wind
+cleared to land runway one five wind
+cleared to land runway one six wind
+cleared to land runway one seven wind
+cleared to land runway one eight wind
+cleared to land runway one nine wind
+cleared to land runway two zero wind
+cleared to land runway two one wind
+cleared to land runway two two wind
+cleared to land runway two three wind
+cleared to land runway two four wind
+cleared to land runway two five wind
+cleared to land runway two six wind
+cleared to land runway two seven wind
+cleared to land runway two eight wind
+cleared to land runway two nine wind
+cleared to land runway three zero wind
+cleared to land runway three one wind
+cleared to land runway three two wind
+cleared to land runway three three wind
+cleared to land runway three four wind
+cleared to land runway three five wind
+cleared to land runway three six wind
+cleared to land runway one left wind
+cleared to land runway one right wind
+cleared to land runway one center wind
+cleared to land runway two left wind
+cleared to land runway two right wind
+cleared to land runway two center wind
+cleared to land runway three left wind
+cleared to land runway three right wind
+cleared to land runway three center wind
+cleared to land runway four left wind
+cleared to land runway four right wind
+cleared to land runway four center wind
+cleared to land runway five left wind
+cleared to land runway five right wind
+cleared to land runway five center wind
+cleared to land runway six left wind
+cleared to land runway six right wind
+cleared to land runway six center wind
+cleared to land runway seven left wind
+cleared to land runway seven right wind
+cleared to land runway seven center wind
+cleared to land runway eight left wind
+cleared to land runway eight right wind
+cleared to land runway eight center wind
+cleared to land runway nine left wind
+cleared to land runway nine right wind
+cleared to land runway nine center wind
+cleared to land runway one one left wind
+cleared to land runway one one right wind
+cleared to land runway one one center wind
+cleared to land runway one two left wind
+cleared to land runway one two right wind
+cleared to land runway one two center wind
+cleared to land runway one three left wind
+cleared to land runway one three right wind
+cleared to land runway one three center wind
+cleared to land runway one four left wind
+cleared to land runway one four right wind
+cleared to land runway one four center wind
+cleared to land runway one five left wind
+cleared to land runway one five right wind
+cleared to land runway one five center wind
+cleared to land runway one six left wind
+cleared to land runway one six right wind
+cleared to land runway one six center wind
+cleared to land runway one seven left wind
+cleared to land runway one seven right wind
+cleared to land runway one seven center wind
+cleared to land runway one eight left wind
+cleared to land runway one eight right wind
+cleared to land runway one eight center wind
+cleared to land runway one nine left wind
+cleared to land runway one nine right wind
+cleared to land runway one nine center wind
+cleared to land runway two zero left wind
+cleared to land runway two zero right wind
+cleared to land runway two zero center wind
+cleared to land runway two one left wind
+cleared to land runway two one right wind
+cleared to land runway two one center wind
+cleared to land runway two two left wind
+cleared to land runway two two right wind
+cleared to land runway two two center wind
+cleared to land runway two three left wind
+cleared to land runway two three right wind
+cleared to land runway two three center wind
+cleared to land runway two four left wind
+cleared to land runway two four right wind
+cleared to land runway two four center wind
+cleared to land runway two five left wind
+cleared to land runway two five right wind
+cleared to land runway two five center wind
+cleared to land runway two six left wind
+cleared to land runway two six right wind
+cleared to land runway two six center wind
+cleared to land runway two seven left wind
+cleared to land runway two seven right wind
+cleared to land runway two seven center wind
+cleared to land runway two eight left wind
+cleared to land runway two eight right wind
+cleared to land runway two eight center wind
+cleared to land runway two nine left wind
+cleared to land runway two nine right wind
+cleared to land runway two nine center wind
+cleared to land runway three zero left wind
+cleared to land runway three zero right wind
+cleared to land runway three zero center wind
+cleared to land runway three one left wind
+cleared to land runway three one right wind
+cleared to land runway three one center wind
+cleared to land runway three two left wind
+cleared to land runway three two right wind
+cleared to land runway three two center wind
+cleared to land runway three three left wind
+cleared to land runway three three right wind
+cleared to land runway three three center wind
+cleared to land runway three four left wind
+cleared to land runway three four right wind
+cleared to land runway three four center wind
+cleared to land runway three five left wind
+cleared to land runway three five right wind
+cleared to land runway three five center wind
+cleared to land runway three six left wind
+cleared to land runway three six right wind
+cleared to land runway three six center wind
+land runway zero one
+land runway zero two
+land runway zero three
+land runway zero four
+land runway zero five
+land runway zero six
+land runway zero seven
+land runway zero eight
+land runway zero nine
+land runway one zero
+land runway one one
+land runway one two
+land runway one three
+land runway one four
+land runway one five
+land runway one six
+land runway one seven
+land runway one eight
+land runway one nine
+land runway two zero
+land runway two one
+land runway two two
+land runway two three
+land runway two four
+land runway two five
+land runway two six
+land runway two seven
+land runway two eight
+land runway two nine
+land runway three zero
+land runway three one
+land runway three two
+land runway three three
+land runway three four
+land runway three five
+land runway three six
+land runway one left
+land runway one right
+land runway one center
+land runway two left
+land runway two right
+land runway two center
+land runway three left
+land runway three right
+land runway three center
+land runway four left
+land runway four right
+land runway four center
+land runway five left
+land runway five right
+land runway five center
+land runway six left
+land runway six right
+land runway six center
+land runway seven left
+land runway seven right
+land runway seven center
+land runway eight left
+land runway eight right
+land runway eight center
+land runway nine left
+land runway nine right
+land runway nine center
+land runway one one left
+land runway one one right
+land runway one one center
+land runway one two left
+land runway one two right
+land runway one two center
+land runway one three left
+land runway one three right
+land runway one three center
+land runway one four left
+land runway one four right
+land runway one four center
+land runway one five left
+land runway one five right
+land runway one five center
+land runway one six left
+land runway one six right
+land runway one six center
+land runway one seven left
+land runway one seven right
+land runway one seven center
+land runway one eight left
+land runway one eight right
+land runway one eight center
+land runway one nine left
+land runway one nine right
+land runway one nine center
+land runway two zero left
+land runway two zero right
+land runway two zero center
+land runway two one left
+land runway two one right
+land runway two one center
+land runway two two left
+land runway two two right
+land runway two two center
+land runway two three left
+land runway two three right
+land runway two three center
+land runway two four left
+land runway two four right
+land runway two four center
+land runway two five left
+land runway two five right
+land runway two five center
+land runway two six left
+land runway two six right
+land runway two six center
+land runway two seven left
+land runway two seven right
+land runway two seven center
+land runway two eight left
+land runway two eight right
+land runway two eight center
+land runway two nine left
+land runway two nine right
+land runway two nine center
+land runway three zero left
+land runway three zero right
+land runway three zero center
+land runway three one left
+land runway three one right
+land runway three one center
+land runway three two left
+land runway three two right
+land runway three two center
+land runway three three left
+land runway three three right
+land runway three three center
+land runway three four left
+land runway three four right
+land runway three four center
+land runway three five left
+land runway three five right
+land runway three five center
+land runway three six left
+land runway three six right
+land runway three six center
+runway zero one cleared to land
+runway zero two cleared to land
+runway zero three cleared to land
+runway zero four cleared to land
+runway zero five cleared to land
+runway zero six cleared to land
+runway zero seven cleared to land
+runway zero eight cleared to land
+runway zero nine cleared to land
+runway one zero cleared to land
+runway one one cleared to land
+runway one two cleared to land
+runway one three cleared to land
+runway one four cleared to land
+runway one five cleared to land
+runway one six cleared to land
+runway one seven cleared to land
+runway one eight cleared to land
+runway one nine cleared to land
+runway two zero cleared to land
+runway two one cleared to land
+runway two two cleared to land
+runway two three cleared to land
+runway two four cleared to land
+runway two five cleared to land
+runway two six cleared to land
+runway two seven cleared to land
+runway two eight cleared to land
+runway two nine cleared to land
+runway three zero cleared to land
+runway three one cleared to land
+runway three two cleared to land
+runway three three cleared to land
+runway three four cleared to land
+runway three five cleared to land
+runway three six cleared to land
+runway one left cleared to land
+runway one right cleared to land
+runway one center cleared to land
+runway two left cleared to land
+runway two right cleared to land
+runway two center cleared to land
+runway three left cleared to land
+runway three right cleared to land
+runway three center cleared to land
+runway four left cleared to land
+runway four right cleared to land
+runway four center cleared to land
+runway five left cleared to land
+runway five right cleared to land
+runway five center cleared to land
+runway six left cleared to land
+runway six right cleared to land
+runway six center cleared to land
+runway seven left cleared to land
+runway seven right cleared to land
+runway seven center cleared to land
+runway eight left cleared to land
+runway eight right cleared to land
+runway eight center cleared to land
+runway nine left cleared to land
+runway nine right cleared to land
+runway nine center cleared to land
+runway one one left cleared to land
+runway one one right cleared to land
+runway one one center cleared to land
+runway one two left cleared to land
+runway one two right cleared to land
+runway one two center cleared to land
+runway one three left cleared to land
+runway one three right cleared to land
+runway one three center cleared to land
+runway one four left cleared to land
+runway one four right cleared to land
+runway one four center cleared to land
+runway one five left cleared to land
+runway one five right cleared to land
+runway one five center cleared to land
+runway one six left cleared to land
+runway one six right cleared to land
+runway one six center cleared to land
+runway one seven left cleared to land
+runway one seven right cleared to land
+runway one seven center cleared to land
+runway one eight left cleared to land
+runway one eight right cleared to land
+runway one eight center cleared to land
+runway one nine left cleared to land
+runway one nine right cleared to land
+runway one nine center cleared to land
+runway two zero left cleared to land
+runway two zero right cleared to land
+runway two zero center cleared to land
+runway two one left cleared to land
+runway two one right cleared to land
+runway two one center cleared to land
+runway two two left cleared to land
+runway two two right cleared to land
+runway two two center cleared to land
+runway two three left cleared to land
+runway two three right cleared to land
+runway two three center cleared to land
+runway two four left cleared to land
+runway two four right cleared to land
+runway two four center cleared to land
+runway two five left cleared to land
+runway two five right cleared to land
+runway two five center cleared to land
+runway two six left cleared to land
+runway two six right cleared to land
+runway two six center cleared to land
+runway two seven left cleared to land
+runway two seven right cleared to land
+runway two seven center cleared to land
+runway two eight left cleared to land
+runway two eight right cleared to land
+runway two eight center cleared to land
+runway two nine left cleared to land
+runway two nine right cleared to land
+runway two nine center cleared to land
+runway three zero left cleared to land
+runway three zero right cleared to land
+runway three zero center cleared to land
+runway three one left cleared to land
+runway three one right cleared to land
+runway three one center cleared to land
+runway three two left cleared to land
+runway three two right cleared to land
+runway three two center cleared to land
+runway three three left cleared to land
+runway three three right cleared to land
+runway three three center cleared to land
+runway three four left cleared to land
+runway three four right cleared to land
+runway three four center cleared to land
+runway three five left cleared to land
+runway three five right cleared to land
+runway three five center cleared to land
+runway three six left cleared to land
+runway three six right cleared to land
+runway three six center cleared to land
+runway zero one cleared for takeoff
+runway zero two cleared for takeoff
+runway zero three cleared for takeoff
+runway zero four cleared for takeoff
+runway zero five cleared for takeoff
+runway zero six cleared for takeoff
+runway zero seven cleared for takeoff
+runway zero eight cleared for takeoff
+runway zero nine cleared for takeoff
+runway one zero cleared for takeoff
+runway one one cleared for takeoff
+runway one two cleared for takeoff
+runway one three cleared for takeoff
+runway one four cleared for takeoff
+runway one five cleared for takeoff
+runway one six cleared for takeoff
+runway one seven cleared for takeoff
+runway one eight cleared for takeoff
+runway one nine cleared for takeoff
+runway two zero cleared for takeoff
+runway two one cleared for takeoff
+runway two two cleared for takeoff
+runway two three cleared for takeoff
+runway two four cleared for takeoff
+runway two five cleared for takeoff
+runway two six cleared for takeoff
+runway two seven cleared for takeoff
+runway two eight cleared for takeoff
+runway two nine cleared for takeoff
+runway three zero cleared for takeoff
+runway three one cleared for takeoff
+runway three two cleared for takeoff
+runway three three cleared for takeoff
+runway three four cleared for takeoff
+runway three five cleared for takeoff
+runway three six cleared for takeoff
+runway one left cleared for takeoff
+runway one right cleared for takeoff
+runway one center cleared for takeoff
+runway two left cleared for takeoff
+runway two right cleared for takeoff
+runway two center cleared for takeoff
+runway three left cleared for takeoff
+runway three right cleared for takeoff
+runway three center cleared for takeoff
+runway four left cleared for takeoff
+runway four right cleared for takeoff
+runway four center cleared for takeoff
+runway five left cleared for takeoff
+runway five right cleared for takeoff
+runway five center cleared for takeoff
+runway six left cleared for takeoff
+runway six right cleared for takeoff
+runway six center cleared for takeoff
+runway seven left cleared for takeoff
+runway seven right cleared for takeoff
+runway seven center cleared for takeoff
+runway eight left cleared for takeoff
+runway eight right cleared for takeoff
+runway eight center cleared for takeoff
+runway nine left cleared for takeoff
+runway nine right cleared for takeoff
+runway nine center cleared for takeoff
+runway one one left cleared for takeoff
+runway one one right cleared for takeoff
+runway one one center cleared for takeoff
+runway one two left cleared for takeoff
+runway one two right cleared for takeoff
+runway one two center cleared for takeoff
+runway one three left cleared for takeoff
+runway one three right cleared for takeoff
+runway one three center cleared for takeoff
+runway one four left cleared for takeoff
+runway one four right cleared for takeoff
+runway one four center cleared for takeoff
+runway one five left cleared for takeoff
+runway one five right cleared for takeoff
+runway one five center cleared for takeoff
+runway one six left cleared for takeoff
+runway one six right cleared for takeoff
+runway one six center cleared for takeoff
+runway one seven left cleared for takeoff
+runway one seven right cleared for takeoff
+runway one seven center cleared for takeoff
+runway one eight left cleared for takeoff
+runway one eight right cleared for takeoff
+runway one eight center cleared for takeoff
+runway one nine left cleared for takeoff
+runway one nine right cleared for takeoff
+runway one nine center cleared for takeoff
+runway two zero left cleared for takeoff
+runway two zero right cleared for takeoff
+runway two zero center cleared for takeoff
+runway two one left cleared for takeoff
+runway two one right cleared for takeoff
+runway two one center cleared for takeoff
+runway two two left cleared for takeoff
+runway two two right cleared for takeoff
+runway two two center cleared for takeoff
+runway two three left cleared for takeoff
+runway two three right cleared for takeoff
+runway two three center cleared for takeoff
+runway two four left cleared for takeoff
+runway two four right cleared for takeoff
+runway two four center cleared for takeoff
+runway two five left cleared for takeoff
+runway two five right cleared for takeoff
+runway two five center cleared for takeoff
+runway two six left cleared for takeoff
+runway two six right cleared for takeoff
+runway two six center cleared for takeoff
+runway two seven left cleared for takeoff
+runway two seven right cleared for takeoff
+runway two seven center cleared for takeoff
+runway two eight left cleared for takeoff
+runway two eight right cleared for takeoff
+runway two eight center cleared for takeoff
+runway two nine left cleared for takeoff
+runway two nine right cleared for takeoff
+runway two nine center cleared for takeoff
+runway three zero left cleared for takeoff
+runway three zero right cleared for takeoff
+runway three zero center cleared for takeoff
+runway three one left cleared for takeoff
+runway three one right cleared for takeoff
+runway three one center cleared for takeoff
+runway three two left cleared for takeoff
+runway three two right cleared for takeoff
+runway three two center cleared for takeoff
+runway three three left cleared for takeoff
+runway three three right cleared for takeoff
+runway three three center cleared for takeoff
+runway three four left cleared for takeoff
+runway three four right cleared for takeoff
+runway three four center cleared for takeoff
+runway three five left cleared for takeoff
+runway three five right cleared for takeoff
+runway three five center cleared for takeoff
+runway three six left cleared for takeoff
+runway three six right cleared for takeoff
+runway three six center cleared for takeoff
+cleared for takeoff runway zero one
+cleared for takeoff runway zero two
+cleared for takeoff runway zero three
+cleared for takeoff runway zero four
+cleared for takeoff runway zero five
+cleared for takeoff runway zero six
+cleared for takeoff runway zero seven
+cleared for takeoff runway zero eight
+cleared for takeoff runway zero nine
+cleared for takeoff runway one zero
+cleared for takeoff runway one one
+cleared for takeoff runway one two
+cleared for takeoff runway one three
+cleared for takeoff runway one four
+cleared for takeoff runway one five
+cleared for takeoff runway one six
+cleared for takeoff runway one seven
+cleared for takeoff runway one eight
+cleared for takeoff runway one nine
+cleared for takeoff runway two zero
+cleared for takeoff runway two one
+cleared for takeoff runway two two
+cleared for takeoff runway two three
+cleared for takeoff runway two four
+cleared for takeoff runway two five
+cleared for takeoff runway two six
+cleared for takeoff runway two seven
+cleared for takeoff runway two eight
+cleared for takeoff runway two nine
+cleared for takeoff runway three zero
+cleared for takeoff runway three one
+cleared for takeoff runway three two
+cleared for takeoff runway three three
+cleared for takeoff runway three four
+cleared for takeoff runway three five
+cleared for takeoff runway three six
+cleared for takeoff runway one left
+cleared for takeoff runway one right
+cleared for takeoff runway one center
+cleared for takeoff runway two left
+cleared for takeoff runway two right
+cleared for takeoff runway two center
+cleared for takeoff runway three left
+cleared for takeoff runway three right
+cleared for takeoff runway three center
+cleared for takeoff runway four left
+cleared for takeoff runway four right
+cleared for takeoff runway four center
+cleared for takeoff runway five left
+cleared for takeoff runway five right
+cleared for takeoff runway five center
+cleared for takeoff runway six left
+cleared for takeoff runway six right
+cleared for takeoff runway six center
+cleared for takeoff runway seven left
+cleared for takeoff runway seven right
+cleared for takeoff runway seven center
+cleared for takeoff runway eight left
+cleared for takeoff runway eight right
+cleared for takeoff runway eight center
+cleared for takeoff runway nine left
+cleared for takeoff runway nine right
+cleared for takeoff runway nine center
+cleared for takeoff runway one one left
+cleared for takeoff runway one one right
+cleared for takeoff runway one one center
+cleared for takeoff runway one two left
+cleared for takeoff runway one two right
+cleared for takeoff runway one two center
+cleared for takeoff runway one three left
+cleared for takeoff runway one three right
+cleared for takeoff runway one three center
+cleared for takeoff runway one four left
+cleared for takeoff runway one four right
+cleared for takeoff runway one four center
+cleared for takeoff runway one five left
+cleared for takeoff runway one five right
+cleared for takeoff runway one five center
+cleared for takeoff runway one six left
+cleared for takeoff runway one six right
+cleared for takeoff runway one six center
+cleared for takeoff runway one seven left
+cleared for takeoff runway one seven right
+cleared for takeoff runway one seven center
+cleared for takeoff runway one eight left
+cleared for takeoff runway one eight right
+cleared for takeoff runway one eight center
+cleared for takeoff runway one nine left
+cleared for takeoff runway one nine right
+cleared for takeoff runway one nine center
+cleared for takeoff runway two zero left
+cleared for takeoff runway two zero right
+cleared for takeoff runway two zero center
+cleared for takeoff runway two one left
+cleared for takeoff runway two one right
+cleared for takeoff runway two one center
+cleared for takeoff runway two two left
+cleared for takeoff runway two two right
+cleared for takeoff runway two two center
+cleared for takeoff runway two three left
+cleared for takeoff runway two three right
+cleared for takeoff runway two three center
+cleared for takeoff runway two four left
+cleared for takeoff runway two four right
+cleared for takeoff runway two four center
+cleared for takeoff runway two five left
+cleared for takeoff runway two five right
+cleared for takeoff runway two five center
+cleared for takeoff runway two six left
+cleared for takeoff runway two six right
+cleared for takeoff runway two six center
+cleared for takeoff runway two seven left
+cleared for takeoff runway two seven right
+cleared for takeoff runway two seven center
+cleared for takeoff runway two eight left
+cleared for takeoff runway two eight right
+cleared for takeoff runway two eight center
+cleared for takeoff runway two nine left
+cleared for takeoff runway two nine right
+cleared for takeoff runway two nine center
+cleared for takeoff runway three zero left
+cleared for takeoff runway three zero right
+cleared for takeoff runway three zero center
+cleared for takeoff runway three one left
+cleared for takeoff runway three one right
+cleared for takeoff runway three one center
+cleared for takeoff runway three two left
+cleared for takeoff runway three two right
+cleared for takeoff runway three two center
+cleared for takeoff runway three three left
+cleared for takeoff runway three three right
+cleared for takeoff runway three three center
+cleared for takeoff runway three four left
+cleared for takeoff runway three four right
+cleared for takeoff runway three four center
+cleared for takeoff runway three five left
+cleared for takeoff runway three five right
+cleared for takeoff runway three five center
+cleared for takeoff runway three six left
+cleared for takeoff runway three six right
+cleared for takeoff runway three six center
+cleared for takeoff zero one
+cleared for takeoff zero two
+cleared for takeoff zero three
+cleared for takeoff zero four
+cleared for takeoff zero five
+cleared for takeoff zero six
+cleared for takeoff zero seven
+cleared for takeoff zero eight
+cleared for takeoff zero nine
+cleared for takeoff one zero
+cleared for takeoff one one
+cleared for takeoff one two
+cleared for takeoff one three
+cleared for takeoff one four
+cleared for takeoff one five
+cleared for takeoff one six
+cleared for takeoff one seven
+cleared for takeoff one eight
+cleared for takeoff one nine
+cleared for takeoff two zero
+cleared for takeoff two one
+cleared for takeoff two two
+cleared for takeoff two three
+cleared for takeoff two four
+cleared for takeoff two five
+cleared for takeoff two six
+cleared for takeoff two seven
+cleared for takeoff two eight
+cleared for takeoff two nine
+cleared for takeoff three zero
+cleared for takeoff three one
+cleared for takeoff three two
+cleared for takeoff three three
+cleared for takeoff three four
+cleared for takeoff three five
+cleared for takeoff three six
+cleared for takeoff one left
+cleared for takeoff one right
+cleared for takeoff one center
+cleared for takeoff two left
+cleared for takeoff two right
+cleared for takeoff two center
+cleared for takeoff three left
+cleared for takeoff three right
+cleared for takeoff three center
+cleared for takeoff four left
+cleared for takeoff four right
+cleared for takeoff four center
+cleared for takeoff five left
+cleared for takeoff five right
+cleared for takeoff five center
+cleared for takeoff six left
+cleared for takeoff six right
+cleared for takeoff six center
+cleared for takeoff seven left
+cleared for takeoff seven right
+cleared for takeoff seven center
+cleared for takeoff eight left
+cleared for takeoff eight right
+cleared for takeoff eight center
+cleared for takeoff nine left
+cleared for takeoff nine right
+cleared for takeoff nine center
+cleared for takeoff one one left
+cleared for takeoff one one right
+cleared for takeoff one one center
+cleared for takeoff one two left
+cleared for takeoff one two right
+cleared for takeoff one two center
+cleared for takeoff one three left
+cleared for takeoff one three right
+cleared for takeoff one three center
+cleared for takeoff one four left
+cleared for takeoff one four right
+cleared for takeoff one four center
+cleared for takeoff one five left
+cleared for takeoff one five right
+cleared for takeoff one five center
+cleared for takeoff one six left
+cleared for takeoff one six right
+cleared for takeoff one six center
+cleared for takeoff one seven left
+cleared for takeoff one seven right
+cleared for takeoff one seven center
+cleared for takeoff one eight left
+cleared for takeoff one eight right
+cleared for takeoff one eight center
+cleared for takeoff one nine left
+cleared for takeoff one nine right
+cleared for takeoff one nine center
+cleared for takeoff two zero left
+cleared for takeoff two zero right
+cleared for takeoff two zero center
+cleared for takeoff two one left
+cleared for takeoff two one right
+cleared for takeoff two one center
+cleared for takeoff two two left
+cleared for takeoff two two right
+cleared for takeoff two two center
+cleared for takeoff two three left
+cleared for takeoff two three right
+cleared for takeoff two three center
+cleared for takeoff two four left
+cleared for takeoff two four right
+cleared for takeoff two four center
+cleared for takeoff two five left
+cleared for takeoff two five right
+cleared for takeoff two five center
+cleared for takeoff two six left
+cleared for takeoff two six right
+cleared for takeoff two six center
+cleared for takeoff two seven left
+cleared for takeoff two seven right
+cleared for takeoff two seven center
+cleared for takeoff two eight left
+cleared for takeoff two eight right
+cleared for takeoff two eight center
+cleared for takeoff two nine left
+cleared for takeoff two nine right
+cleared for takeoff two nine center
+cleared for takeoff three zero left
+cleared for takeoff three zero right
+cleared for takeoff three zero center
+cleared for takeoff three one left
+cleared for takeoff three one right
+cleared for takeoff three one center
+cleared for takeoff three two left
+cleared for takeoff three two right
+cleared for takeoff three two center
+cleared for takeoff three three left
+cleared for takeoff three three right
+cleared for takeoff three three center
+cleared for takeoff three four left
+cleared for takeoff three four right
+cleared for takeoff three four center
+cleared for takeoff three five left
+cleared for takeoff three five right
+cleared for takeoff three five center
+cleared for takeoff three six left
+cleared for takeoff three six right
+cleared for takeoff three six center
+touch and go runway zero one
+touch and go runway zero two
+touch and go runway zero three
+touch and go runway zero four
+touch and go runway zero five
+touch and go runway zero six
+touch and go runway zero seven
+touch and go runway zero eight
+touch and go runway zero nine
+touch and go runway one zero
+touch and go runway one one
+touch and go runway one two
+touch and go runway one three
+touch and go runway one four
+touch and go runway one five
+touch and go runway one six
+touch and go runway one seven
+touch and go runway one eight
+touch and go runway one nine
+touch and go runway two zero
+touch and go runway two one
+touch and go runway two two
+touch and go runway two three
+touch and go runway two four
+touch and go runway two five
+touch and go runway two six
+touch and go runway two seven
+touch and go runway two eight
+touch and go runway two nine
+touch and go runway three zero
+touch and go runway three one
+touch and go runway three two
+touch and go runway three three
+touch and go runway three four
+touch and go runway three five
+touch and go runway three six
+touch and go runway one left
+touch and go runway one right
+touch and go runway one center
+touch and go runway two left
+touch and go runway two right
+touch and go runway two center
+touch and go runway three left
+touch and go runway three right
+touch and go runway three center
+touch and go runway four left
+touch and go runway four right
+touch and go runway four center
+touch and go runway five left
+touch and go runway five right
+touch and go runway five center
+touch and go runway six left
+touch and go runway six right
+touch and go runway six center
+touch and go runway seven left
+touch and go runway seven right
+touch and go runway seven center
+touch and go runway eight left
+touch and go runway eight right
+touch and go runway eight center
+touch and go runway nine left
+touch and go runway nine right
+touch and go runway nine center
+touch and go runway one one left
+touch and go runway one one right
+touch and go runway one one center
+touch and go runway one two left
+touch and go runway one two right
+touch and go runway one two center
+touch and go runway one three left
+touch and go runway one three right
+touch and go runway one three center
+touch and go runway one four left
+touch and go runway one four right
+touch and go runway one four center
+touch and go runway one five left
+touch and go runway one five right
+touch and go runway one five center
+touch and go runway one six left
+touch and go runway one six right
+touch and go runway one six center
+touch and go runway one seven left
+touch and go runway one seven right
+touch and go runway one seven center
+touch and go runway one eight left
+touch and go runway one eight right
+touch and go runway one eight center
+touch and go runway one nine left
+touch and go runway one nine right
+touch and go runway one nine center
+touch and go runway two zero left
+touch and go runway two zero right
+touch and go runway two zero center
+touch and go runway two one left
+touch and go runway two one right
+touch and go runway two one center
+touch and go runway two two left
+touch and go runway two two right
+touch and go runway two two center
+touch and go runway two three left
+touch and go runway two three right
+touch and go runway two three center
+touch and go runway two four left
+touch and go runway two four right
+touch and go runway two four center
+touch and go runway two five left
+touch and go runway two five right
+touch and go runway two five center
+touch and go runway two six left
+touch and go runway two six right
+touch and go runway two six center
+touch and go runway two seven left
+touch and go runway two seven right
+touch and go runway two seven center
+touch and go runway two eight left
+touch and go runway two eight right
+touch and go runway two eight center
+touch and go runway two nine left
+touch and go runway two nine right
+touch and go runway two nine center
+touch and go runway three zero left
+touch and go runway three zero right
+touch and go runway three zero center
+touch and go runway three one left
+touch and go runway three one right
+touch and go runway three one center
+touch and go runway three two left
+touch and go runway three two right
+touch and go runway three two center
+touch and go runway three three left
+touch and go runway three three right
+touch and go runway three three center
+touch and go runway three four left
+touch and go runway three four right
+touch and go runway three four center
+touch and go runway three five left
+touch and go runway three five right
+touch and go runway three five center
+touch and go runway three six left
+touch and go runway three six right
+touch and go runway three six center
+approach runway zero one
+approach runway zero two
+approach runway zero three
+approach runway zero four
+approach runway zero five
+approach runway zero six
+approach runway zero seven
+approach runway zero eight
+approach runway zero nine
+approach runway one zero
+approach runway one one
+approach runway one two
+approach runway one three
+approach runway one four
+approach runway one five
+approach runway one six
+approach runway one seven
+approach runway one eight
+approach runway one nine
+approach runway two zero
+approach runway two one
+approach runway two two
+approach runway two three
+approach runway two four
+approach runway two five
+approach runway two six
+approach runway two seven
+approach runway two eight
+approach runway two nine
+approach runway three zero
+approach runway three one
+approach runway three two
+approach runway three three
+approach runway three four
+approach runway three five
+approach runway three six
+approach runway one left
+approach runway one right
+approach runway one center
+approach runway two left
+approach runway two right
+approach runway two center
+approach runway three left
+approach runway three right
+approach runway three center
+approach runway four left
+approach runway four right
+approach runway four center
+approach runway five left
+approach runway five right
+approach runway five center
+approach runway six left
+approach runway six right
+approach runway six center
+approach runway seven left
+approach runway seven right
+approach runway seven center
+approach runway eight left
+approach runway eight right
+approach runway eight center
+approach runway nine left
+approach runway nine right
+approach runway nine center
+approach runway one one left
+approach runway one one right
+approach runway one one center
+approach runway one two left
+approach runway one two right
+approach runway one two center
+approach runway one three left
+approach runway one three right
+approach runway one three center
+approach runway one four left
+approach runway one four right
+approach runway one four center
+approach runway one five left
+approach runway one five right
+approach runway one five center
+approach runway one six left
+approach runway one six right
+approach runway one six center
+approach runway one seven left
+approach runway one seven right
+approach runway one seven center
+approach runway one eight left
+approach runway one eight right
+approach runway one eight center
+approach runway one nine left
+approach runway one nine right
+approach runway one nine center
+approach runway two zero left
+approach runway two zero right
+approach runway two zero center
+approach runway two one left
+approach runway two one right
+approach runway two one center
+approach runway two two left
+approach runway two two right
+approach runway two two center
+approach runway two three left
+approach runway two three right
+approach runway two three center
+approach runway two four left
+approach runway two four right
+approach runway two four center
+approach runway two five left
+approach runway two five right
+approach runway two five center
+approach runway two six left
+approach runway two six right
+approach runway two six center
+approach runway two seven left
+approach runway two seven right
+approach runway two seven center
+approach runway two eight left
+approach runway two eight right
+approach runway two eight center
+approach runway two nine left
+approach runway two nine right
+approach runway two nine center
+approach runway three zero left
+approach runway three zero right
+approach runway three zero center
+approach runway three one left
+approach runway three one right
+approach runway three one center
+approach runway three two left
+approach runway three two right
+approach runway three two center
+approach runway three three left
+approach runway three three right
+approach runway three three center
+approach runway three four left
+approach runway three four right
+approach runway three four center
+approach runway three five left
+approach runway three five right
+approach runway three five center
+approach runway three six left
+approach runway three six right
+approach runway three six center
+cleared to land runway zero one wind
+cleared to land runway zero two wind
+cleared to land runway zero three wind
+cleared to land runway zero four wind
+cleared to land runway zero five wind
+cleared to land runway zero six wind
+cleared to land runway zero seven wind
+cleared to land runway zero eight wind
+cleared to land runway zero nine wind
+cleared to land runway one zero wind
+cleared to land runway one one wind
+cleared to land runway one two wind
+cleared to land runway one three wind
+cleared to land runway one four wind
+cleared to land runway one five wind
+cleared to land runway one six wind
+cleared to land runway one seven wind
+cleared to land runway one eight wind
+cleared to land runway one nine wind
+cleared to land runway two zero wind
+cleared to land runway two one wind
+cleared to land runway two two wind
+cleared to land runway two three wind
+cleared to land runway two four wind
+cleared to land runway two five wind
+cleared to land runway two six wind
+cleared to land runway two seven wind
+cleared to land runway two eight wind
+cleared to land runway two nine wind
+cleared to land runway three zero wind
+cleared to land runway three one wind
+cleared to land runway three two wind
+cleared to land runway three three wind
+cleared to land runway three four wind
+cleared to land runway three five wind
+cleared to land runway three six wind
+cleared to land runway one left wind
+cleared to land runway one right wind
+cleared to land runway one center wind
+cleared to land runway two left wind
+cleared to land runway two right wind
+cleared to land runway two center wind
+cleared to land runway three left wind
+cleared to land runway three right wind
+cleared to land runway three center wind
+cleared to land runway four left wind
+cleared to land runway four right wind
+cleared to land runway four center wind
+cleared to land runway five left wind
+cleared to land runway five right wind
+cleared to land runway five center wind
+cleared to land runway six left wind
+cleared to land runway six right wind
+cleared to land runway six center wind
+cleared to land runway seven left wind
+cleared to land runway seven right wind
+cleared to land runway seven center wind
+cleared to land runway eight left wind
+cleared to land runway eight right wind
+cleared to land runway eight center wind
+cleared to land runway nine left wind
+cleared to land runway nine right wind
+cleared to land runway nine center wind
+cleared to land runway one one left wind
+cleared to land runway one one right wind
+cleared to land runway one one center wind
+cleared to land runway one two left wind
+cleared to land runway one two right wind
+cleared to land runway one two center wind
+cleared to land runway one three left wind
+cleared to land runway one three right wind
+cleared to land runway one three center wind
+cleared to land runway one four left wind
+cleared to land runway one four right wind
+cleared to land runway one four center wind
+cleared to land runway one five left wind
+cleared to land runway one five right wind
+cleared to land runway one five center wind
+cleared to land runway one six left wind
+cleared to land runway one six right wind
+cleared to land runway one six center wind
+cleared to land runway one seven left wind
+cleared to land runway one seven right wind
+cleared to land runway one seven center wind
+cleared to land runway one eight left wind
+cleared to land runway one eight right wind
+cleared to land runway one eight center wind
+cleared to land runway one nine left wind
+cleared to land runway one nine right wind
+cleared to land runway one nine center wind
+cleared to land runway two zero left wind
+cleared to land runway two zero right wind
+cleared to land runway two zero center wind
+cleared to land runway two one left wind
+cleared to land runway two one right wind
+cleared to land runway two one center wind
+cleared to land runway two two left wind
+cleared to land runway two two right wind
+cleared to land runway two two center wind
+cleared to land runway two three left wind
+cleared to land runway two three right wind
+cleared to land runway two three center wind
+cleared to land runway two four left wind
+cleared to land runway two four right wind
+cleared to land runway two four center wind
+cleared to land runway two five left wind
+cleared to land runway two five right wind
+cleared to land runway two five center wind
+cleared to land runway two six left wind
+cleared to land runway two six right wind
+cleared to land runway two six center wind
+cleared to land runway two seven left wind
+cleared to land runway two seven right wind
+cleared to land runway two seven center wind
+cleared to land runway two eight left wind
+cleared to land runway two eight right wind
+cleared to land runway two eight center wind
+cleared to land runway two nine left wind
+cleared to land runway two nine right wind
+cleared to land runway two nine center wind
+cleared to land runway three zero left wind
+cleared to land runway three zero right wind
+cleared to land runway three zero center wind
+cleared to land runway three one left wind
+cleared to land runway three one right wind
+cleared to land runway three one center wind
+cleared to land runway three two left wind
+cleared to land runway three two right wind
+cleared to land runway three two center wind
+cleared to land runway three three left wind
+cleared to land runway three three right wind
+cleared to land runway three three center wind
+cleared to land runway three four left wind
+cleared to land runway three four right wind
+cleared to land runway three four center wind
+cleared to land runway three five left wind
+cleared to land runway three five right wind
+cleared to land runway three five center wind
+cleared to land runway three six left wind
+cleared to land runway three six right wind
+cleared to land runway three six center wind
+land runway zero one
+land runway zero two
+land runway zero three
+land runway zero four
+land runway zero five
+land runway zero six
+land runway zero seven
+land runway zero eight
+land runway zero nine
+land runway one zero
+land runway one one
+land runway one two
+land runway one three
+land runway one four
+land runway one five
+land runway one six
+land runway one seven
+land runway one eight
+land runway one nine
+land runway two zero
+land runway two one
+land runway two two
+land runway two three
+land runway two four
+land runway two five
+land runway two six
+land runway two seven
+land runway two eight
+land runway two nine
+land runway three zero
+land runway three one
+land runway three two
+land runway three three
+land runway three four
+land runway three five
+land runway three six
+land runway one left
+land runway one right
+land runway one center
+land runway two left
+land runway two right
+land runway two center
+land runway three left
+land runway three right
+land runway three center
+land runway four left
+land runway four right
+land runway four center
+land runway five left
+land runway five right
+land runway five center
+land runway six left
+land runway six right
+land runway six center
+land runway seven left
+land runway seven right
+land runway seven center
+land runway eight left
+land runway eight right
+land runway eight center
+land runway nine left
+land runway nine right
+land runway nine center
+land runway one one left
+land runway one one right
+land runway one one center
+land runway one two left
+land runway one two right
+land runway one two center
+land runway one three left
+land runway one three right
+land runway one three center
+land runway one four left
+land runway one four right
+land runway one four center
+land runway one five left
+land runway one five right
+land runway one five center
+land runway one six left
+land runway one six right
+land runway one six center
+land runway one seven left
+land runway one seven right
+land runway one seven center
+land runway one eight left
+land runway one eight right
+land runway one eight center
+land runway one nine left
+land runway one nine right
+land runway one nine center
+land runway two zero left
+land runway two zero right
+land runway two zero center
+land runway two one left
+land runway two one right
+land runway two one center
+land runway two two left
+land runway two two right
+land runway two two center
+land runway two three left
+land runway two three right
+land runway two three center
+land runway two four left
+land runway two four right
+land runway two four center
+land runway two five left
+land runway two five right
+land runway two five center
+land runway two six left
+land runway two six right
+land runway two six center
+land runway two seven left
+land runway two seven right
+land runway two seven center
+land runway two eight left
+land runway two eight right
+land runway two eight center
+land runway two nine left
+land runway two nine right
+land runway two nine center
+land runway three zero left
+land runway three zero right
+land runway three zero center
+land runway three one left
+land runway three one right
+land runway three one center
+land runway three two left
+land runway three two right
+land runway three two center
+land runway three three left
+land runway three three right
+land runway three three center
+land runway three four left
+land runway three four right
+land runway three four center
+land runway three five left
+land runway three five right
+land runway three five center
+land runway three six left
+land runway three six right
+land runway three six center
+runway zero one cleared to land
+runway zero two cleared to land
+runway zero three cleared to land
+runway zero four cleared to land
+runway zero five cleared to land
+runway zero six cleared to land
+runway zero seven cleared to land
+runway zero eight cleared to land
+runway zero nine cleared to land
+runway one zero cleared to land
+runway one one cleared to land
+runway one two cleared to land
+runway one three cleared to land
+runway one four cleared to land
+runway one five cleared to land
+runway one six cleared to land
+runway one seven cleared to land
+runway one eight cleared to land
+runway one nine cleared to land
+runway two zero cleared to land
+runway two one cleared to land
+runway two two cleared to land
+runway two three cleared to land
+runway two four cleared to land
+runway two five cleared to land
+runway two six cleared to land
+runway two seven cleared to land
+runway two eight cleared to land
+runway two nine cleared to land
+runway three zero cleared to land
+runway three one cleared to land
+runway three two cleared to land
+runway three three cleared to land
+runway three four cleared to land
+runway three five cleared to land
+runway three six cleared to land
+runway one left cleared to land
+runway one right cleared to land
+runway one center cleared to land
+runway two left cleared to land
+runway two right cleared to land
+runway two center cleared to land
+runway three left cleared to land
+runway three right cleared to land
+runway three center cleared to land
+runway four left cleared to land
+runway four right cleared to land
+runway four center cleared to land
+runway five left cleared to land
+runway five right cleared to land
+runway five center cleared to land
+runway six left cleared to land
+runway six right cleared to land
+runway six center cleared to land
+runway seven left cleared to land
+runway seven right cleared to land
+runway seven center cleared to land
+runway eight left cleared to land
+runway eight right cleared to land
+runway eight center cleared to land
+runway nine left cleared to land
+runway nine right cleared to land
+runway nine center cleared to land
+runway one one left cleared to land
+runway one one right cleared to land
+runway one one center cleared to land
+runway one two left cleared to land
+runway one two right cleared to land
+runway one two center cleared to land
+runway one three left cleared to land
+runway one three right cleared to land
+runway one three center cleared to land
+runway one four left cleared to land
+runway one four right cleared to land
+runway one four center cleared to land
+runway one five left cleared to land
+runway one five right cleared to land
+runway one five center cleared to land
+runway one six left cleared to land
+runway one six right cleared to land
+runway one six center cleared to land
+runway one seven left cleared to land
+runway one seven right cleared to land
+runway one seven center cleared to land
+runway one eight left cleared to land
+runway one eight right cleared to land
+runway one eight center cleared to land
+runway one nine left cleared to land
+runway one nine right cleared to land
+runway one nine center cleared to land
+runway two zero left cleared to land
+runway two zero right cleared to land
+runway two zero center cleared to land
+runway two one left cleared to land
+runway two one right cleared to land
+runway two one center cleared to land
+runway two two left cleared to land
+runway two two right cleared to land
+runway two two center cleared to land
+runway two three left cleared to land
+runway two three right cleared to land
+runway two three center cleared to land
+runway two four left cleared to land
+runway two four right cleared to land
+runway two four center cleared to land
+runway two five left cleared to land
+runway two five right cleared to land
+runway two five center cleared to land
+runway two six left cleared to land
+runway two six right cleared to land
+runway two six center cleared to land
+runway two seven left cleared to land
+runway two seven right cleared to land
+runway two seven center cleared to land
+runway two eight left cleared to land
+runway two eight right cleared to land
+runway two eight center cleared to land
+runway two nine left cleared to land
+runway two nine right cleared to land
+runway two nine center cleared to land
+runway three zero left cleared to land
+runway three zero right cleared to land
+runway three zero center cleared to land
+runway three one left cleared to land
+runway three one right cleared to land
+runway three one center cleared to land
+runway three two left cleared to land
+runway three two right cleared to land
+runway three two center cleared to land
+runway three three left cleared to land
+runway three three right cleared to land
+runway three three center cleared to land
+runway three four left cleared to land
+runway three four right cleared to land
+runway three four center cleared to land
+runway three five left cleared to land
+runway three five right cleared to land
+runway three five center cleared to land
+runway three six left cleared to land
+runway three six right cleared to land
+runway three six center cleared to land
+zero one
+zero two
+zero three
+zero four
+zero five
+zero six
+zero seven
+zero eight
+zero nine
+one zero
+one one
+one two
+one three
+one four
+one five
+one six
+one seven
+one eight
+one nine
+two zero
+two one
+two two
+two three
+two four
+two five
+two six
+two seven
+two eight
+two nine
+three zero
+three one
+three two
+three three
+three four
+three five
+three six
+one left
+one right
+one center
+two left
+two right
+two center
+three left
+three right
+three center
+four left
+four right
+four center
+five left
+five right
+five center
+six left
+six right
+six center
+seven left
+seven right
+seven center
+eight left
+eight right
+eight center
+nine left
+nine right
+nine center
+one one left
+one one right
+one one center
+one two left
+one two right
+one two center
+one three left
+one three right
+one three center
+one four left
+one four right
+one four center
+one five left
+one five right
+one five center
+one six left
+one six right
+one six center
+one seven left
+one seven right
+one seven center
+one eight left
+one eight right
+one eight center
+one nine left
+one nine right
+one nine center
+two zero left
+two zero right
+two zero center
+two one left
+two one right
+two one center
+two two left
+two two right
+two two center
+two three left
+two three right
+two three center
+two four left
+two four right
+two four center
+two five left
+two five right
+two five center
+two six left
+two six right
+two six center
+two seven left
+two seven right
+two seven center
+two eight left
+two eight right
+two eight center
+two nine left
+two nine right
+two nine center
+three zero left
+three zero right
+three zero center
+three one left
+three one right
+three one center
+three two left
+three two right
+three two center
+three three left
+three three right
+three three center
+three four left
+three four right
+three four center
+three five left
+three five right
+three five center
+three six left
+three six right
+three six center
+runway one
+runway one left
+runway one right
+runway one center
+runway two
+runway two left
+runway two right
+runway two center
+runway three
+runway three left
+runway three right
+runway three center
+runway four
+runway four left
+runway four right
+runway four center
+runway five
+runway five left
+runway five right
+runway five center
+runway six
+runway six left
+runway six right
+runway six center
+runway seven
+runway seven left
+runway seven right
+runway seven center
+runway eight
+runway eight left
+runway eight right
+runway eight center
+runway nine
+runway nine left
+runway nine right
+runway nine center
+runway ten
+runway ten left
+runway ten right
+runway ten center
+runway eleven
+runway eleven left
+runway eleven right
+runway eleven center
+runway twelve
+runway twelve left
+runway twelve right
+runway twelve center
+runway thirteen
+runway thirteen left
+runway thirteen right
+runway thirteen center
+runway fourteen
+runway fourteen left
+runway fourteen right
+runway fourteen center
+runway fifteen
+runway fifteen left
+runway fifteen right
+runway fifteen center
+runway sixteen
+runway sixteen left
+runway sixteen right
+runway sixteen center
+runway seventeen
+runway seventeen left
+runway seventeen right
+runway seventeen center
+runway eighteen
+runway eighteen left
+runway eighteen right
+runway eighteen center
+runway nineteen
+runway nineteen left
+runway nineteen right
+runway nineteen center
+runway twenty
+runway twenty left
+runway twenty right
+runway twenty center
+runway twenty one
+runway twenty one left
+runway twenty one right
+runway twenty one center
+runway twenty two
+runway twenty two left
+runway twenty two right
+runway twenty two center
+runway twenty three
+runway twenty three left
+runway twenty three right
+runway twenty three center
+runway twenty four
+runway twenty four left
+runway twenty four right
+runway twenty four center
+runway twenty five
+runway twenty five left
+runway twenty five right
+runway twenty five center
+runway twenty six
+runway twenty six left
+runway twenty six right
+runway twenty six center
+runway twenty seven
+runway twenty seven left
+runway twenty seven right
+runway twenty seven center
+runway twenty eight
+runway twenty eight left
+runway twenty eight right
+runway twenty eight center
+runway twenty nine
+runway twenty nine left
+runway twenty nine right
+runway twenty nine center
+runway thirty
+runway thirty left
+runway thirty right
+runway thirty center
+runway thirty one
+runway thirty one left
+runway thirty one right
+runway thirty one center
+runway thirty two
+runway thirty two left
+runway thirty two right
+runway thirty two center
+runway thirty three
+runway thirty three left
+runway thirty three right
+runway thirty three center
+runway thirty four
+runway thirty four left
+runway thirty four right
+runway thirty four center
+runway thirty five
+runway thirty five left
+runway thirty five right
+runway thirty five center
+runway thirty six
+runway thirty six left
+runway thirty six right
+runway thirty six center

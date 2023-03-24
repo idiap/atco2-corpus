@@ -1,0 +1,100 @@
+1	0	United Kingdom	Heathrow Airport	London	80,886,589[1]	80,100,311[1]	11.0%	1786,278
+2	0	France	Charles de Gaulle Airport	Paris	76,150,007[2]	72,229,723[3]	15.4%	13,920,284
+3	0	Netherlands	Amsterdam Airport Schiphol	Amsterdam	71,707,144[4]	71,053,157[4]	10.9%	1653,987
+4	0	Germany	Frankfurt am Main Airport	Frankfurt	70,556,072[5]	69,510,269[6]	11.5%	11,045,803
+5	1 1	Spain	Adolfo Suárez Madrid–Barajas Airport	Madrid	61,734,037[7]	57,891,340[7]	16.6%	13,842,697
+6	1 1	Spain	Barcelona–El Prat Josep Tarradellas Airport	Barcelona	52,686,314[7]	50,172,457[7]	15.0%	12,513,857
+7	New	Turkey	Istanbul Airport	Istanbul	52,578,008[8]	95,205[8]	155126.1%	152,482,803
+8	1 2	Russia	Sheremetyevo International Airport	Moscow	49,438,545[9]	45,348,150[9]	19.0%	14,090,395
+9	-1 1	Germany	Munich Airport	Munich	47,941,348 [10]	46,253,620[6]	13.6%	11,687,728
+10	-1 1	United Kingdom	Gatwick Airport	London	46,574,786[1]	46,081,327[1]	11.1%	1493,459
+11	0	Italy	Leonardo da Vinci–Fiumicino Airport	Rome	43,532,573[11]	42,995,119[11]	11.3%	1537,454
+12	1 1	Ireland	Dublin Airport	Dublin	32,907,673[12]	31,497,526[13]	14.5%	11,410,147
+13	-1 1	France	Orly Airport	Paris	31,853,049[2]	33,120,685[3]	-13.8%	-11,267,636
+14	1 8	Austria	Vienna International Airport	Vienna	31,662,189[14]	27,037,292[14]	117.1%	14,624,897
+15	-1 1	Switzerland	Zurich Airport	Zürich	31,507,692 [15]	31,113,488[16]	11.3%	1394,204
+16	1 2	Portugal	Lisbon Airport	Lisbon	31,173,000[17]	29,031,268[18]	17.3%	12,141,732
+17	-1 2	Denmark	Copenhagen Airport	Copenhagen	30,256,703[19]	30,298,531[19]	-10.1%	-141,828
+18	-1 1	Spain	Palma de Mallorca Airport	Palma de Mallorca	29,721,123[7]	29,081,787[7]	12.2%	1639,336
+19	1 1	United Kingdom	Manchester Airport	Manchester	29,367,477[1]	28,254,970[1]	13.9%	11,112,507
+20	1 5	Italy	Malpensa Airport	Milan	28,846,299[11]	24,725,490[11]	116.7%	14,120,809
+21	-1 2	Norway	Oslo Airport, Gardermoen	Oslo	28,592,619[20]	28,518,584[20]	10.3%	174,035
+22	-1 6	Russia	Domodedovo International Airport	Moscow	28,252,337[9]	29,403,704[9]	-13.9%	-11,151,367
+23	-1 2	United Kingdom	London Stansted Airport	London	28,124,292[1]	27,995,121[1]	10.5%	1129,171
+24	0	Belgium	Brussels Airport	Brussels	26,360,003[21]	25,675,939[21]	12.7%	1684,064
+25	-1 2	Sweden	Stockholm Arlanda Airport	Stockholm	25,642,703[22]	26,845,419[22]	-14.5%	-11,202,716
+26	1 1	Greece	Athens International Airport	Athens	25,574,030[23]	24,135,736[23]	16.0%	11,438,294
+27	-1 1	Germany	Düsseldorf Airport	Düsseldorf	25,507,566[6]	24,283,967[6]	15.0%	11,223,599
+28	0	Germany	Berlin Tegel Airport	Berlin	24,227,570[6]	22,000,430[6]	110.1%	12,227,140
+29	0	Russia	Vnukovo International Airport	Moscow	24,001,521[9]	21,478,486[9]	111.7%	12,523,035
+30	0	Finland	Helsinki Airport	Helsinki	21,861,082[24]	20,848,838[24]	14.9%	11,012,244
+31	0	Spain	Málaga Airport	Málaga	19,856,299[7]	19,021,704[7]	14.4%	1834,595
+32	0	Russia	Pulkovo Airport	Saint Petersburg	19,581,262[9]	18,123,064[9]	18.0%	11,458,198
+33	0	Poland	Warsaw Chopin Airport	Warsaw	18,869,302[25]	17,755,543[26]	16.3%	11,113,760
+34	1 3	United Kingdom	Luton Airport	London	18,213,901[1]	16,766,552[1]	18.6%	11,447,349
+35	-1 1	Switzerland	Geneva Airport	Geneva	17,926,629[27]	17,677,035[27]	11.4%	1249,594
+36	0	Czech Republic	Václav Havel Airport Prague	Prague	17,804,900[28]	16,797,006[28]	16.0%	11,007,894
+37	-1 2	Germany	Hamburg Airport	Hamburg	17,308,773[6]	17,234,229[6]	10.4%	174,544
+38	0	Hungary	Budapest Ferenc Liszt International Airport	Budapest	16,173,399[29]	14,867,491[29]	18.8%	11,305,908
+39	-1 34	Turkey	Istanbul Atatürk Airport (closed on 6 April 2019)	Istanbul	16,072,534[8]	67,981,446[8]	-176.4%	-151,908,912
+40	1 6	Ukraine	Boryspil International Airport	Kiev	15,260,281[30][31]	12,602,933[31]	121.1%	12,657,348
+41	-1 1	Spain	Alicante Airport	Alicante	15,047,840[7]	13,981,320[7]	17.6%	11,066,520
+42	-1 3	United Kingdom	Edinburgh Airport	Edinburgh	14,733,966[1]	14,291,811[1]	13.1%	1442,155
+43	-1 1	Romania	Henri Coandă International Airport	Bucharest	14,707,376[32]	13,820,428[33]	16.4%	1886,948
+44	-1 3	France	Nice Côte d'Azur Airport	Nice	14,485,423[2]	13,850,561[34]	14.6%	1634,862
+45	-1 1	Italy	Orio al Serio International Airport	Milan/Bergamo	13,857,257[11]	12,938,572[11]	17.1%	1918,685
+46	1 2	Portugal	Porto Airport	Porto	13,107,000	11,939,562[18]	19.7%	11,167,438
+47	1 2	Germany	Stuttgart Airport	Stuttgart	12,721,441[6]	11,798,090[6]	19.8%	1923,351
+48	-1 1	United Kingdom	Birmingham Airport	Birmingham	12,646,456[1]	12,454,642[1]	11.5%	1191,814
+49	-1 6	Germany	Cologne Bonn Airport	Cologne/Bonn	12,368,519[6]	12,957,828[6]	-14.5%	-1589,309
+50	1 1	France	Lyon–Saint-Exupéry Airport	Lyon	11,739,600[2]	11,037,410[35]	16.4%	1702,190
+51	-1 1	Italy	Venice Marco Polo Airport	Venice	11,561,594[11]	11,184,608[11]	13.4%	1376,986
+52	-1 7	Germany	Berlin Schönefeld Airport	Berlin	11,417,435[6]	12,725,937[6]	-110.3%	-11,308,502
+53	0	Italy	Naples Airport	Naples	10,860,068[11]	9,932,029[11]	19.3%	1928,039
+54	-1 2	Italy	Catania-Fontanarossa Airport	Catania	10,223,113	9,933,318[11]	12.9%	1289,795
+55	1 2	France	Marseille Provence Airport	Marseille	10,151,743[2]	9,390,371[citation needed]	18.1%	1761,372
+56	0	France	Toulouse–Blagnac Airport	Toulouse	9,620,224[2]	9,630,308[36]	-10.1%	-110,084
+57	1 5	Italy	Bologna Guglielmo Marconi Airport	Bologna	9,405,920[11]	8,506,658[11]	110.6%	1899,262
+58	1 3	Switzerland	EuroAirport Basel Mulhouse Freiburg	Basel/Mulhouse/Freiburg im Breisgau	9,094,821[2]	8,573,705[37]	16.0%	1521,116
+59	1 1	Portugal	Faro Airport	Faro	9,009,000[citation needed]	8,685,571[18]	-	-
+60	-1 1	United Kingdom	Bristol Airport	Bristol	8,959,679[1]	8,696,653[1]	13.0%	1263,026
+61	-1 6	United Kingdom	Glasgow Airport	Glasgow	8,843,214[1]	9,652,216[1]	-18.4%	-1809,002
+62	1 4	Spain	Valencia Airport	Valencia	8,539,403[7]	7,769,867[7]	19.9%	1769,536
+63	1 9	Poland	Kraków John Paul II International Airport	Kraków	8,410,817[38]	6,769,369[39]	124.2%	11,641,448
+64	0	Belgium	Brussels South Charleroi Airport	Charleroi	8,224,450[40]	8,029,680[41]	12.4%	1194,770
+65	-1 2	Spain	Ibiza Airport	Ibiza	8,155,635[7]	8,104,316[7]	10.6%	151,319
+66	-1 1	Greece	Heraklion International Airport	Heraklion	7,839,255	7,974,887[42]	-11.7%	-1135,632
+67	0	Latvia	Riga International Airport	Riga	7,798,382[43]	7,056,099[43]	110.5%	1742,283
+68	1 3	France	Bordeaux–Mérignac Airport	Bordeaux	7,703,135[2]	6,799,572[citation needed]	113.3%	1903,563
+69	1 6	Spain	Seville Airport	Seville	7,544,473[7]	6,380,465[7]	118.2%	11,164,008
+70	-1 1	Malta	Malta International Airport	Malta	7,310,289[14]	6,808,177[14]	17.4%	1502,112
+71	-1 17	Iceland	Keflavík International Airport	Reykjavík	7,247,820[44]	9,804,388[44]	-126.1%	-12,556,568
+72	1 7	France	Nantes Atlantique Airport	Nantes	7,227,411[2]	6,199,181[citation needed]	116.6%	11,028,230
+73	-1 5	Bulgaria	Sofia Airport	Sofia	7,107,096[45]	6,962,040[45]	12.1%	1145,056
+74	-1 1	Italy	Falcone–Borsellino Airport	Palermo	7,018,087[11]	6,628,558[11]	15.9%	1389,529
+75	-1 1	Greece	Thessaloniki Airport "Macedonia"	Thessaloniki	6,897,057[46]	6,689,193[42]	13.1%	1207,864
+76	1 3	Netherlands	Eindhoven Airport	Eindhoven	6,780,796[47]	6,237,755[47]	18.7%	1543,041
+77	-1 6	Sweden	Göteborg Landvetter Airport	Gothenburg	6,671,361[22]	6,807,976[22]	-12.0%	-1136,615
+78	-1 19	Italy	Linate Airport	Milan	6,570,984[11]	9,233,475[11]	-128.8%	-12,662,491
+79	-1 1	Norway	Bergen Airport, Flesland	Bergen	6,505,827[20]	6,306,623[20]	13.2%	1199,204
+80	-1 3	Germany	Langenhagen Airport	Hanover	6,301,366[6]	6,324,634[6]	-10.4%	-123,268
+81	-1 2	United Kingdom	Belfast International Airport	Belfast	6,278,374[1]	6,268,953[1]	10.2%	19,421
+82	0	Serbia	Belgrade Nikola Tesla Airport	Belgrade	6,159,000[48]	5,641,105[48]	19.2%	1517,895
+83	0	Spain	Bilbao Airport	Bilbao	5,905,804[7]	5,469,453[7]	18.0%	1436,351
+84	-1 3	Italy	Ciampino Airport	Rome	5,879,496[11]	5,839,737[11]	10.7%	139,759
+85	1 4	Italy	Bari Airport	Bari	5,545,588[11]	5,030,760[11]	110.2%	1514,828
+86	0	Greece	Rhodes International Airport	Rhodes	5,542,567[49]	5,567,748[42]	-10.5%	-125,181
+87	-1 3	Italy	Galileo Galilei Airport	Pisa	5,387,558[11]	5,463,090[11]	-11.4%	-175,532
+88	1 2	Poland	Gdańsk Lech Wałęsa Airport	Gdańsk	5,376,120[50]	4,980,647[50]	17.9%	1395,473
+89	-1 4	United Kingdom	Newcastle Airport	Newcastle upon Tyne	5,198,952[1]	5,332,238[1]	-12.5%	-1133,286
+90	-1 3	Russia[Note 1]	Simferopol International Airport	Simferopol	5,140,000[51]	5,146,095[9]	-10.1%	-16,095
+91	1 2	United Kingdom	London City Airport	London	5,122,039[1]	4,820,292[1]	16.3%	1301,747
+92	1 4	Belarus	Minsk National Airport	Minsk	5,101,766[52]	4,536,618[53]	112.5%	1565,148
+93	-1 2	Lithuania	Vilnius Airport	Vilnius	5,004,921[54]	4,922,949[55]	11.7%	181,972
+94	-1 6	United Kingdom	Liverpool John Lennon Airport	Liverpool	5,000,176[1]	5,042,312[1]	-10.8%	-142,136
+95	-1 2	Poland	Katowice Airport	Katowice	4,843,889[56]	4,838,149[56]	10.1%	15,740
+96	1 2	Italy	Cagliari Elmas Airport	Cagliari	4,747,806[11]	4,370,014[11]	18.6%	1377,792
+97	-1 5	United Kingdom	East Midlands Airport	Derby/Leicester/Nottingham	4,674,338[1]	4,873,757[1]	-14.1%	-1199,237
+98	1 2	Russia	Krasnodar International Airport[Note 2]	Krasnodar	4,630,770[9]	4,160,053[9]	111.3%	1483,699
+99	New	Luxembourg	Luxembourg Airport	Luxembourg City	4,416,038[citation needed]	4,036,878[citation needed]	19.4%	1379,160
+100	-1 3	Norway	Trondheim Airport Værnes	Trondheim	4,381,921[20]	4,441,791[20]	-11.3%	-159,870

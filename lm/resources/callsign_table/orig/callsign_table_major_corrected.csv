@@ -1,0 +1,368 @@
+IATA	ICAO	Airline	Call sign	Country	Comments
+
+A3	AEE	Aegean Airlines	AEGEAN	Greece
+SU	AFL	Aeroflot Russian Airlines	AEROFLOT	Russia
+AM	AMX	Aeromexico	AEROMEXICO	Mexico
+CA	CCA	Air China	AIR CHINA	China
+NX	AMU	Air Macau	AIR MACAU	Macao
+KM	AMC	Air Malta	AIR MALTA	Malta
+TP	TAP	TAP Portugal	AIR PORTUGAL	Portugal
+JU	ASL	Air Serbia	AIR SERBIA	Serbia	formerly JAT
+TS	TSC	Air Transat	AIR TRANSAT	Canada
+TS	TSC	Air Transat	TRANSAT	Canada (common short version)
+NF	AVN	Air Vanuatu	AIR VAN	Vanuatu
+BT	BTI	Air Baltic	AIR BALTIC	Latvia
+AF	AFR	Air France	AIRFRANS	France
+AI	AIC	Air India	AIRINDIA	India
+MK	MAU	Air Mauritius	AIRMAURITIUS	Mauritius
+AS	ASA	Alaska Airlines	ALASKA	United States
+AZ	AZA	Alitalia	ALITALIA	Italy
+G4	AAY	Allegiant Air	ALLEGIANT	United States
+AA	AAL	American Airlines	AMERICAN	United States
+G9	ABY	Air Arabia	ARABIA	United Arab Emirates
+3O	MAC	Air Arabia Maroc	ARABIA MAROC	Morocco	This ICAO designator was previously used by Malta Air Charter
+AR	ARG	Aerolineas Argentinas	ARGENTINA	Argentina
+OZ	AAR	Asiana Airlines	ASIANA	South Korea
+KC	KZR	Air Astana	ASTANALINE	Kazakhstan
+OS	AUA	Austrian Airlines	AUSTRIAN	Austria
+AD	AZU	Azul Brazilian Airlines	AZUL	Brazil
+PG	BKP	Bangkok Airways	BANGKOK AIR	Thailand
+HX	CRK	Hong Kong Airlines	BAUHINIA	Hong Kong
+SN	BEL	Brussels Airlines	BEELINE	Belgium
+6B	BLX	TUIfly Nordic	BLUESCAN	Sweden
+BI	RBA	Royal Brunei Airlines	BRUNEI	Brunei
+BW	BWA	Caribbean Airlines	CARIBBEAN	Trinidad and Tobago
+BW	BWA	Caribbean Airlines	CARIBBEAN AIRLINES	Trinidad and Tobago
+CX	CPA	Cathay Pacific	CATHAY	Hong Kong
+KX	CAY	Cayman Airways	CAYMAN	Cayman Islands
+ME	MEA	Middle East Airlines	CEDAR JET	Lebanon
+LS	EXS	Jet2.com	CHANNEX	United Kingdom
+MU	CES	China Eastern Airlines	CHINA EASTERN	China
+CZ	CSN	China Southern Airlines	CHINA SOUTHERN	China
+WA	KLC	KLM Cityhopper	CITY	Netherlands
+DE	CFG	Condor Flugdienst	CONDOR	Germany
+CM	CMP	Copa Airlines	COPA	Panama
+XK	CCM	Air Corsica	CORSICA	France
+OU	CTN	Croatia Airlines	CROATIA	Croatia
+OK	CSA	Czech Airlines	C_S_A	Czech Republic
+DL	DAL	Delta Air Lines	DELTA	United States
+EN	DLA	Air Dolomiti	DOLOMITI	Italy
+KA	HDA	Cathay Dragon	DRAGON	Hong Kong
+DT	DTA	TAAG Angola Airlines	D_T_A	Angola
+CI	CAL	China Airlines	DYNASTY	Taiwan
+WK	EDW	Edelweiss Air	EDELWEISS	Switzerland
+MS	MSR	Egyptair	EGYPTAIR	Egypt
+EK	UAE	Emirates Airlines	EMIRATES	United Arab Emirates
+ET	ETH	Ethiopian Airlines	ETHIOPIAN	Ethiopia
+EY	ETD	Etihad Airways	ETIHAD	United Arab Emirates
+UX	AEA	Air Europa	EUROPA	Spain
+EW	EWG	Eurowings	EUROWINGS	Germany
+BR	EVA	EVA Air	EVA	Taiwan
+IX	AXB	Air India Express	EXPRESS INDIA	India
+AY	FIN	Finnair	FINNAIR	Finland
+TX	FWI	Air Caraibes	FRENCH WEST	France
+F9	FFT	Frontier Airlines	FRONTIER FLIGHT	United States
+GF	GFA	Gulf Air	GULF AIR	Bahrain
+HU	CHH	Hainan Airlines	HAINAN	China
+HA	HAL	Hawaiian Airlines	HAWAIIAN	United States
+2L	OAW	Helvetic Airways	HELVETIC	Switzerland
+I2	IBS	Iberia Express	IBEREXPRES	Spain	Charter service, low cost carrier for EU flights of Iberia operating only A320's
+IB	IBE	Iberia Airlines	IBERIA	Spain
+FI	ICE	Icelandair	ICEAIR	Iceland
+6E	IGO	IndiGo Airlines	IFLY	India	Interglobe Aviation
+GA	GIA	Garuda Indonesia	INDONESIA	Indonesia
+JL	JAL	Japan Airlines	JAPANAIR	Japan	Japan Airlines International
+7C	JJA	Jeju Air	JEJU AIR	Republic of Korea
+B6	JBU	JetBlue Airways	JETBLUE	United States
+RJ	RJA	Royal Jordanian	JORDANIAN	Jordan
+KQ	KQA	Kenya Airways	KENYA	Kenya
+KL	KLM	KLM	K_L_M	Netherlands
+KE	KAL	Korean Air	KOREAN AIR	South Korea
+LG	LGL	Luxair	LUXAIR	Luxembourg
+MH	MAS	Malaysia Airlines	MALAYSIAN	Malaysia
+SW	NMB	Air Namibia	NAMIBIA	Namibia
+TE	ANZ	Air New Zealand	NEW ZEALAND	New Zealand	"""NZ"" used by New Zealand National Airways Corporation until its merger with Air New Zealand in 1978
+DD	NOK	Nok Air	NOK AIR	Thailand
+N4	NWS	Nordwind Airlines	NORDLAND	Russia
+WY	OMA	Oman Air	OMAN AIR	Oman
+FJ	FJI	Fiji Airways	PACIFIC	Fiji
+FJ	FJI	Fiji Airways	FIJI	Fiji
+PK	PIA	Pakistan International Airlines	PAKISTAN	Pakistan
+PR	PAL	Philippine Airlines	PHILIPPINE	Philippines
+LO	LOT	LOT Polish Airlines	POLLOT	Poland
+LO	LOT	LOT Polish Airlines	LOT	Poland	(common short callsign version)
+PD	POE	Porter Airlines	PORTER	Canada
+QR	QTR	Qatar Airways	QATARI	Qatar
+UU	REU	Air Austral	REUNION	France
+ZL	RXA	Regional Express	REX	Australia
+AT	RAM	Royal Air Maroc	ROYALAIR MAROC	Morocco
+FV	SDM	Rossiya	RUSSIA	Russia	Airline merged with Pulkovo Aviation Enterprise and renamed to Rossiya
+FR	RYR	Ryanair	RYANAIR	Ireland
+FR	RYR	Ryanair	RYAN	Ireland	(common short callsign version)
+7S	RYA	Ryan Air Services	RYANAIR	United States
+SV	SVA	Saudia	SAUDIA	Saudi Arabia
+SK	CNO	SAS Braathens	SCANOR	Norway
+EI	EIN	Aer Lingus	SHAMROCK	Ireland
+FM	CSH	Shanghai Airlines	SHANGHAI AIR	China	Part of China Eastern Airlines
+S7	SBI	S7 Airlines	SIBERIAN AIRLINES	Russia
+SQ	SIA	Singapore Airlines	SINGAPORE	Singapore
+SQ	SQC	Singapore Airlines Cargo	SINGCARGO	Singapore
+WN	SWA	Southwest Airlines	SOUTHWEST	United States
+NK	NKS	Spirit Airlines	SPIRIT WINGS	United States
+GX	CBG	Guangxi Beibu Gulf Airlines	GREEN CITY	China
+SA	SAA	South African Airways	SPRINGBOK	South Africa
+UL	ALK	SriLankan Airlines	SRILANKAN	Sri Lanka
+SY	SCX	Sun Country Airlines	SUN COUNTRY	United States
+PC	PGT	Pegasus Airlines	SUNTURK	Turkey	WAS 1I, H9
+WG	SWG	Sunwing Airlines	SUNWING	Canada
+U6	SVR	Ural Airlines	SVERDLOVSK AIR	Russia
+WO	WSW	Swoop	SWOOP	Canada
+TN	THT	Air Tahiti Nui	TAHITI AIRLINES	France
+JE	MNO	Mango	TULCA	South Africa
+TK	THY	Turkish Airlines	TURKISH	Turkey
+PS	AUI	Ukraine International Airlines	UKRAINE INTERNATIONAL	Ukraine
+UA	UAL	United Airlines	UNITED	United States
+UT	UTA	UTair Aviation	UTAIR	Russia	WAS P2 till 2006
+HY	UZB	Uzbekistan Airways	UZBEK	Uzbekistan
+VN	HVN	Vietnam Airlines	VIETNAM AIRLINES	Vietnam
+VS	VIR	Virgin Atlantic Airways	VIRGIN	United Kingdom
+VA	VOZ	Virgin Australia Airlines	VELOCITY	Australia	PREVIOUSLY USED: KANGA, AURORA, VEE-OZ
+Y4	VOI	Volaris	VOLARIS	Mexico
+V7	VOE	Volotea	VOLOTEA	Spain
+VY	VLG	Vueling Airlines	VUELING	Spain
+WS	WJA	WestJet	WESTJET	Canada
+WR	WEN	WestJet Encore	ENCORE	Canada
+MF	CXA	Xiamen Airlines	XIAMEN AIR	China
+
+AK	AXM	AirAsia	RED CAP	Malaysia
+D7	XAX	AirAsia X	XANADU	Malaysia
+QZ	AWQ	Indonesia AirAsia	WAGON AIR	Indonesia
+XT	IDX	Indonesia AirAsia X	RED PHOENIX	Indonesia
+Z2	APG	Philippines AirAsia	COOL RED	Philippines
+FD	AIQ	Thai AirAsia	THAI ASIA	Thailand
+XJ	TAX	Thai AirAsia X	EXPRESS WING	Thailand
+I5	IAD	AirAsia India	RED KNIGHT	India
+DJ	WAJ	AirAsia Japan	WING ASIA	Japan
+
+AC	ACA	Air Canada	AIR CANADA	Canada
+RV	ROU	Air Canada Rouge	ROUGE	Canada
+QK	JZA	Air Canada Jazz	JAZZ	Canada
+
+AV	AVA	Avianca	AVIANCA	Colombia
+A0	MCJ	Avianca Argentina	JETMAC	Argentina	Owned by Synergy Group
+O6	ONE	Avianca Brazil	OCEANAIR	Brazil	formerly Oceanair
+TA	TAI	Avianca El Salvador	TACA	El Salvador
+
+BA	BAW	British Airways	SPEEDBIRD	United Kingdom
+BA	BAW	British Airways	BIRD	United Kingdom	(common short callsign)
+BA	XMS	British Airways Santa	SANTA	United Kingdom	Christmas charter flights
+BA	SHT	British Airways Shuttle	SHUTTLE	United Kingdom	BA domestic services
+
+U2	EZY	EasyJet	EASY	United Kingdom
+EC	EJU	EasyJet Europe	ALPINE	Austria
+DS	EZS	EasyJet Switzerland	TOPSWISS	Switzerland
+
+JQ	JST	Jetstar Airways	JETSTAR	Australia
+3K	JSA	Jetstar Asia Airways	JETSTAR ASIA	Singapore
+GK	JJP	Jetstar Japan	ORANGE LINER	Japan
+JM	JKT	Jetstar Hong Kong Airways	KAITAK	China
+
+4M	DSM	LATAM Argentina	LAN AR	Argentina
+JJ	TAM	LATAM Brasil	TAM	Brazil
+LA	LAN	LATAM Chile	LAN CHILE	Chile
+UC	LCO	LATAM Cargo Chile	LAN CARGO	Chile
+4C	ARE	LATAM Colombia	LAN COLOMBIA	Colombia
+PZ	LAP	LATAM Paraguay	PARAGUAYA	Paraguay
+LU	LXP	LATAM Express	LANEX	Chile
+LP	LPE	LATAM Peru	LANPERU	Peru
+
+LH	DLH	Lufthansa	LUFTHANSA	Germany
+LH	DLH	Lufthansa	HANSA	Germany	(common short callsign)
+LH	GEC	Lufthansa Cargo	LUFTHANSA CARGO	Germany
+CL	CLH	Lufthansa CityLine	HANSALINE	Germany
+LH	LHT	Lufthansa Technik	LUFTHANSA TECHNIK	Germany
+
+DY	NAX	Norwegian Air Shuttle	NOR SHUTTLE	Norway
+DI	NRS	Norwegian Air UK	REDNOSE	United Kingdom	subsidiary of Norwegian Air Shuttle
+DN	NAA	Norwegian Air Argentina	NORUEGA	Argentina	subsidiary of Norwegian Air Shuttle
+D8	IBK	Norwegian Air International	NORTRANS	Ireland	subsidiary of Norwegian Air Shuttle[23]
+DU	NLH	Norwegian Long Haul	NORSTAR	Norway	subsidiary of Norwegian Air Shuttle
+DH	NAN	Norwegian Air Norway	NORSHIP	Norway	subsidiary of Norwegian Air Shuttle
+LE	NSW	Norwegian Air Sweden	NORDIC	Sweden
+??	TFN	Norwegian Aviation College	SPIRIT	Norway
+
+QF	QFA	Qantas	QANTAS	Australia
+QF	QJE	Qantaslink	QJET	Australia	Qantaslink Jet Operations
+QF	QLK	Qantaslink	QLINK	Australia	Turbo-Props
+
+9C	CQH	Spring Airlines	AIR SPRING	China
+IJ	SJO	Spring Airlines Japan	JEY SPRING	Japan
+
+??	KRF	United Kingdom Royal VIP Flights	KITTYHAWK	United Kingdom	In Military Aircraft
+??	KRH	United Kingdom Royal VIP Flight	SPARROWHAWK	United Kingdom	In Civil Chartered Aircraft
+??	TQF	United Kingdom Royal VIP Flights	RAINBOW	United Kingdom	Helicopter Flights
+
+EL	ELY	El Al	EL AL	Israel
+SB	ACI	Aircalin	AIRCALIN	New Caledonia
+LX	SWR	Swiss International Air Lines	SWISS	Switzerland
+TR	TGW	Scoot	SCOOTER	Singapore	Former IATA: TZ Former ICAO: SCO; Adopted Tigerair codes after their merger
+W6	WZZ	Wizzair	WIZZ AIR	Hungary
+BF	FBU	French Bee	FRENCH BEE	France
+UK	VTI	Vistara	VISTARA	India
+J2	AHY	Azerbaijan Airlines	AZAL	Azerbaijan
+TG	THA	Thai Airways International	THAI	Thailand
+DK	VKG	Sunclass Airlines	VIKING	Denmark
+RS	ASV	Air Seoul	AIR SEOUL	South Korea
+UO	HKE	HK Express	HONGKONG SHUTTLE	Hong Kong
+MN	CAW	Kulula.com	COMAIR	South Africa
+SG	SEJ	SpiceJet	SPICEJET	India
+MI	SLK	SilkAir	SILKAIR	Singapore
+S4	RZO	Azores Airlines	AZORES	Azores
+QH	BAV	Bamboo Airways	BAMBOO	Vietnam
+VB	VIV	Viva Aerobus	AEROENLACES	Mexico
+VB	VIV	Viva Aerobus	VIVA	Mexico (common short name)
+TT	TGG	Tigerair Australia	TIGGOZ	Australia	Previously TGW, callsign GO CAT
+5F	FIA	Fly One	FIA AIRLINES	Moldova	Allocated in 2016
+4O	AIJ	InterJet	A_B_C AEROLINEAS	Mexico
+TU	TAR	Tunisair	TUNAIR	Tunisia
+FZ	FDB	Flydubai	SKY DUBAI	United Arab Emirates
+LJ	JNA	JinAir	JIN AIR	South Korea
+B0	DJT	La Compagnie	DREAMJET	France
+BY	TOM	TUI Airways	TOMJET	United Kingdom
+5J	CEB	Cebu Pacific	CEBU AIR	Philippines
+KF	ABB	Air Belgium	AIR BELGIUM	Belgium
+HV	TRA	Transavia	TRANSAVIA	Holland
+HV	TRA	Transavia	AVIA	Holland	(common short callsign)
+JT	LNI	LionAir	LION INTER	Indonesia
+WB	RWD	RwandAir	RWANDAIR	Rwanda
+NH	ANA	All Nippon Airways	ALL NIPPON	Japan
+3M	SIL	Silver Airways	SILVER WINGS	United States
+MM	APJ	Peach Aviation	AIR PEACH	Japan
+G3	GLO	Gol Transportes Aereos	GOL	Brazil
+
+RE	STK	Stobart Air	STOBART	Ireland
+SK	SAS	Scandinavian Airlines	SCANDINAVIAN	Sweden, Denmark and Norway
+SK	SAS	Scandinavian Airlines	SCAN	Sweden, Denmark and Norway	(common short callsign version)
+1I	NJE	NetJets Europe	FRACTION	Portugal
+4B	BTQ	Boutique Air	BOUTIQUE	United States
+??	PCH	Pilatus Flugzeugwerke	PILATUS	Switzerland (common short callsign version)
+??	PCH	Pilatus Flugzeugwerke	PILATUS WINGS	Switzerland
+RO	ROT	Tarom	TAROM	Romania
+CJ	CFE	BA CityFlyer	FLYER	United Kingdom
+??	USC	AirNet Express	STAR CHECK	United States	Renamed from US Check Airlines
+BE	BEE	Flybe	JERSEY	United Kingdom
+??	LXA	Luxaviation	LUXAVIATION	Luxembourg
+??	MDT	Sundt Air	MIDNIGHT	Norway
+TF	SCW	Malmo Aviation	SCANWING	Sweden
+TF	SCW	Malmo Aviation	SCAN	Sweden (common shortened callsign version)
+FL	LPA	Air Leap	LEAP	Sweden
+??	SCQ	Scandinavian Aviation Academy	SCAVAC	Sweden and San Diego
+??	ECC	Eclair Aviation	ECLAIR	Czech Republic
+??	STQ	Star Air	STERA	Indonesia
+A9	TGZ	Georgian Airways	TAMAZI	Georgia
+UG	TUI	Tuninter	TUNISIA	Tunisia
+X3	TUI	TUI fly Deutschland	TUI JET	Germany
+X3	TUI	TUI fly Deutschland	TUIFLY	Germany	(other variant, added by MK)
+??	SUI	Swiss Air Force	SWISS AIR FORCE	Switzerland
+??	PNC	Prince Aviation	PRINCE	Serbia
+??	RGA	Royal Ghanaian Airlines	ROYAL GHANA	Ghana
+XQ	SXS	SunExpress	SUNEXPRESS	Turkey
+??	EDC	Air Charter Scotland	SALTIRE	United Kingdom	Previously: Edinburgh Air Charter
+TO	TVF	Transavia France	FRANCE SOLEIL	France
+??	AOJ	Avcon Jet	ASTERIX	Austria
+??	HRN	Heron Luftfahrt	HERONAIR	Germany
+??	GIZ	Africa Airlines	AFRILENS	Guinea
+W9	WUK	Wizz Air UK	WIZZ GO	United Kingdom
+??	GAC	GlobeAir	DREAM TEAM	Austria
+??	SVW	Global Jet Luxembourg	SILVER ARROW	Luxembourg	(but there seem to be SILVER ARROWS in wiki and FAA table)
+??	GAF	German Air Force	GERMAN AIR FORCE	Germany
+HR	HHN	Hahn Air	ROOSTER	Germany
+L8	LXG	Air Luxor GB	LUXOR GOLF	Guinea-Bissau
+CK	CKK	China Cargo Airlines	CARGO KING	China
+CK	CKK	China Cargo Airlines	CHINA KING	China
+RU	ABW	AirBridge Cargo	AIRBRIDGE CARGO	Russia	Former IATA: BO
+7T	AGV	Air Glaciers	AIR GLACIERS	Switzerland
+??	AHO	Air Hamburg	AIR HAMBURG	Germany
+??	ATL	??	CENTRALMEX	Mexico
+ZE	AZE	Arcus-Air Logistic	ARCUS AIR	Germany
+4Y	BGA	Airbus Transport International	BELUGA	France
+??	BRO	2Excel Aviation	BROADSWORD	United Kingdom
+??	CAZ	Cat Aviation	EUROCAT	Switzerland
+??	COL	Columbia Airlines	COLAIR	Canada
+8C	CXI	Shanxi Airlines	SHANXI	China
+??	EFD	Eisele Flugdienst	EVER FLIGHT	Germany
+??	GSW	Sky Wings Airlines	ARROW JET	Greece
+??	JAF	Jetairfly	BEAUTY	Belgium
+??	JFA	Jetfly Aviation	MOSQUITO	Luxembourg
+??	JMG	JetMagic	JET MAGIC	Ireland	Defunct
+??	LXJ	Bombardier Business Jet Solutions	FLEXJET	United States
+??	PBW	Polizeihubschrauberstaffel Baden-Württemberg	BUSSARD	Germany
+??	SCR	Silver Cloud Air	SILVER CLOUD	Germany
+??	SIO	Sirio	SIRIO	Italy
+??	SOO	Southern Air	SOUTHERN AIR	United States
+QS	TVS	Travel Service	SKYTRAVEL	Czech Republic
+??	VJT	Vistajet	VISTA	Canada (common short name)
+??	VJT	Vistajet	VISTAJET	Canada
+
+??	WRC	Windrose Airlines	WINDROSE	Ukraine
+??	ADR	Adria Airways	ADRIA	Slovenia	Defunct
+??	AEG	Airest	AIREST CARGO	Estonia
+??	AEG	Airest	AIREST	Estonia	(shortened form)
+??	AEL	Air Europe	AIR EUROPE	Italy	Defunct
+EH	AKX	ANA Wings	ALFA WING	Japan
+??	VND	Avinord	AVINORD	Italy
+??	RSP	JetSuite	REDSTRIPE	United States
+??	LRQ	Luxembourg Air Ambulance	LUX RESCUE	Luxembourg
+??	JTG	Jet Time	JET TIME	Denmark
+9W	JAI	Jet Airways	JET AIRWAYS	India
+0B	BMS	Blue Air	BLUE MESSENGER	Romania
+??	RDN	Red Barn Operations	RED BARN	United States
+??	ENZ	Jota Aviation	ENZO	United Kingdom
+DP	PBD	Pobeda	POBEDA	Russia
+WZ	RWZ	Red Wings Airlines	AIR RED	Russia
+??	AXG	Air X Germany	FORTUNE	Germany
+QQ	QQE	Qatar Executive	QREX	Qatar
+??	BAO	Baden Aircraft Operations	AVANGARD	Germany
+TI	TWI	Tailwind Airlines	TAILWIND	Turkey
+JO	JAZ	JALways	JALWAYS	Japan
+8B	BFY	Bremenfly	BORGWARDT	Germany
+3Z	TVP	Smartwings Poland	JETTRAVEL	Poland
+O4	OTF	Orange2Fly	ORANGESKY	Greece
+??	CMB	US Military Cargo	CAMBER	United States
+S2	JLL	JetLite	LITE JET	India
+F7	RSY	I-Fly	RUSSIAN SKY	Russia
+EG	ERN	Ernest Airlines	ERNEST	Italy
+5Q	HES	Holiday Europe	HOLIDAY EUROPE	Bulgaria
+??	XGO	AirGo	PASTIS	Germany
+XE	JSX	JSX	BIGSTRIPE	United States
+??	JNL	Jetnetherlands	JETNETHERLANDS	Netherlands
+??	BDJ	Deer jet	CROWN JET	China
+??	ORT	Ortac AOC	SKYWALKER	Jersey
+A4	AZO	Azimuth	AZIMUTH	Russia
+DZ	EPA	Donghai Airlines	DONGHAI AIR	China
+??	AQS	Airstream	AIRSTREAM	Czechia
+VE	EFY	EasyFly	EASYFLY	Colombia
+QW	QDA	Qingdao Airlines	SKY LEGEND	China
+??	GAJ	Gama Aviation	GAMA JET	United States
+J9	JZR	Jazeera Airways	JAZEERA	Kuwait
+??	CGF	Cargoair	CLEVER	Bulgaria
+YJ	AWM	Asian Wings Airways	ASIAN STAR	Myanmar
+ED	AXE	AirExplore	GALILEO	Slovakia
+KI	CDR	Canadian Regional Airlines	CANADIAN REGIONAL	Canada
+KI	CDR	Canadian Regional Airlines	CANADAIR	Canada
+??	SYB	SkyService	SKYBIZ	Canada
+JA	JAT	JetSmart	ROCKSMART	Chile
+SE	XLF	XL Airways	STARWAY	France
+??	RSD	Rossyia Special Flight	STATE AERO	Russia
+R5	JAV	Jordan Aviation	JORDAN AVIATION	Jordan
+AB	BER	Air Berlin	AIR BERLIN	Germany
+HG	NLY	Niki	FLYNIKI	Austria
+HG	NLY	Niki	NIKI	Austria
+??	LEU	Lions-Air	LIONSAIR	Switzerland
+??	LEU	Lions-Air	LIONS	Switzerland	(common short callsign version)
+??	GDK	Goldeck-Flug	GOLDECK FLUG	Austria
+??	GDK	Goldeck-Flug	GOLDECK	Austria	(common short callsign version)
+8Q	OHY	Onur Air	ONUR AIR	Turkey
+8Q	OHY	Onur Air	ONUR	Turkey
+NG	LDA	Lauda Air	LAUDA AIR	Austria
+NG	LDA	Lauda Air	LAUDA	Austria

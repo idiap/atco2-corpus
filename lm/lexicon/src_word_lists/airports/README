@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Source: https://en.wikipedia.org/wiki/List_of_the_busiest_airports_in_Europe
+
+cat wiki_List_of_the_busiest_airports_in_Europe | iconv -f utf8 -t "ascii//TRANSLIT" | \
+  awk -v FS="\t" -v OFS="\t" '{ print $3, $4, $5; }' | \
+  sed 's:\[[^]]*\]::g' | \
+  sed 's:([^)]*)::g' | \
+  tr ',–"-' ' ' | \
+  tee >(cut -f1 | tr -s ' ' | sort -u >country) \
+      >(cut -f2 | tr -s ' ' | sort -u >airport) \
+      >(cut -f3 | tr -s ' ' | tr '/' '\n' | sort -u >city)
+

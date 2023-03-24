@@ -1,0 +1,292 @@
+# general rules for merging/splitting certain common expressions
+take off	takeoff
+call sign	callsign
+readback	read back
+flightlevel	flight level
+dewpoint	dew point
+stand by	standby
+start up	startup
+goodbye	good bye
+tripple	triple
+alpha	alfa
+charly	charlie
+juliet	juliett
+julliet	juliett
+oskar	oscar
+xray	x-ray
+zoulou	zulu
+whisky	whiskey
+niner	nine
+qatar	qatari
+turkey	turkish
+air france	airfrans
+norshuttle	nor shuttle
+airvan	air van
+clear for	cleared for
+lineup	line up
+line-up	line up
+cotnact	contact
+snow cab	snowcap
+air nav	airnav
+lefthand	left-hand
+righthand	right-hand
+left hand	left-hand
+right hand	right-hand
+leftwind	left wind
+rightwind	right wind
+left-wind	left wind
+right-wind	right wind
+
+# based on wrong variants from 'lexicon/data/local/dict_g2p_atc/lexicon.txt',
+desending	descending
+desceding	descending
+descedning	descending
+descendig	descending
+descendind	descending
+descendning	descending
+desceng	descend
+descenidng	descending
+decsend	descend
+descned	descend
+desecend	descend
+desend	descend
+desactivated	deactivated
+desscend	descend
+fife	five
+
+# typos from 'kaldi_data_preparations/AIRBUS_CHALLENGE'
+wouldd	would
+weahter	weather
+wdescend	descend
+vvivbility	visibility
+isibility	visibility
+vecor	vector
+vecotrs	vectors
+vectoing	vectoring
+vetoring	vectoring
+vetors	vectors
+unifrom	uniform
+unifom	uniform
+twwo	two
+twonine	two nine
+turnright	turn right
+trhee	three
+transtition	transition
+tolouse	toulouse
+throught	through
+thresold	threshold
+thosuand	thousand
+thaat	that
+temperaure	temperature
+successfull	successful
+standbye	standby
+speedird	speedbird
+speebird	speedbird
+scatered	scattered
+ryunway	runway
+rynair	ryanair
+rwunay	runway
+runxay	runway
+rigth	right
+reveived	received
+reveiced	received
+stablished	established
+restablished	established
+estabilshed	established
+etablished	established
+establised	established
+qoogbye	qoodbye
+qfternoon	afternoon
+pressur	pressure
+parallele	parallel
+oxgyen	oxygen
+osacar	oscar
+oposite	opposite
+novemner	november
+nothern	northern
+northen	northern
+nformation	information
+monring	morning
+minuts	minutes
+minmum	minimum
+mimimum	minimum
+maximium	maximum
+manoevering	maneuvering
+manoeuvre	maneuver
+maintaing	maintaining
+mainting	maintaining
+lutfhansa	lufthansa
+lufhthansa	lufthansa
+ligth	light
+invisibile	invisible
+interecept	intercept
+inormation	information
+infrom	inform
+informtation	information
+inforation	information
+incercept	intercept
+identifiy	identify
+heding	heading
+headint	heading
+groud	ground
+goind	going
+goiing	going
+germarnia	germania
+freqency	frequency
+frequence	frequency
+frequencie	frequency
+folow	follow
+filght	flight
+fiftt	fifth
+fift	fifth
+exercices	exercises
+excpecting	expecting
+excercises	exercises
+eihgt	eight
+eigteen	eighteen
+efficial	official
+corssing	crossing
+contine	continue
+communcations	communications
+cntinue	continue
+clmibing	climbing
+clearead	cleared
+cleaed	cleared
+claered	cleared
+cicling	circling
+blaganc	blagnac
+aproaching	approaching
+approchaing	approaching
+appron	apron
+altitutde	altitude
+airbone	airborne
+aibus	airbus
+afternooon	afternoon
+affrim	affirm
+acrossing	crossing
+absolutly	absolutely
+whyskey	whiskey
+uebec	quebec
+tousand	thousand
+signigicant	significant
+shcool	school
+ninty	ninety
+lefft	left
+heaing	heading
+foxtrox	foxtrot
+foxtrottrot	foxtrot
+droping	dropping
+canceled	cancelled
+vacacted	vacated
+thouand	thousand
+stoping	stopping
+evenging	evening
+behing	behind
+initialy	initially
+oclock	o'clock
+o clock	o'clock
+
+# based on N4 nato
+doorgaan	<unk>
+verzamelpunt	<unk>
+verkenningsspel	<unk>
+unlogstadt	<unk>
+elvergardsmoen	<unk>
+buchen	<unk>
+nieuwe	<unk>
+
+# based on UWB_ATCC
+zatim	<unk>
+zdendo	<unk>
+
+# based on MALORCA
+versuchen	<unk>
+ungefaehr	<unk>
+sicher	<unk>
+probieren	<unk>
+mahlzeit	<unk>
+hilft	<unk>
+gleich	<unk>
+geschaetzt	<unk>
+gern	<unk>
+genau	<unk>
+einmal	<unk>
+einen	<unk>
+wuenschen	<unk>
+umschalten	<unk>
+nachmittag	<unk>
+fuer	<unk>
+zeltweg	<unk>
+ich	<unk>
+goldeck	<unk>
+die	<unk>
+besten	<unk>
+cancell	cancel
+
+# based on liveatc and atco test sets
+afterwarts	afterwards
+convinience	convenience
+fiveteen	fifteen
+grutlzi	grutzli
+prefectly	perfectly
+reciever	receiver
+transvia	transavia
+vilco	wilco
+zurrich	zurich
+
+# based on 'atco2_train_set_v1'
+aegan	aegean
+apha	alfa
+appologies	apologies
+appraoching	approaching
+approuved	approved
+bavro	bravo
+begining	beginning
+cofirm	confirm
+currenly	currently
+charliecorrect	charlie correct
+deegres	degrees
+descretion	discretion
+discetion	discretion
+edelweis	edelweiss
+eightee	eighteen
+eigthy	eighty
+eightteen	eighteen
+engin	engine
+equipement	equipment
+fiftten	fifteen
+fity	fifty
+go-around	go around
+goaround	go around
+goahead	go ahead
+gruezie	gruezi
+grutsie	gruezi
+hoding	holding
+inclimb	in climb
+ligthly	lightly
+martiny	martigny
+nighty	ninety
+ninenty	ninety
+o'clockposition	o'clock position
+o'cloc	o'clock
+qanatas	qantas
+qanats	qantas
+southwesterlyheading	south westerly heading
+pararel	parallel
+pesron	person
+postition	position
+runaway	runway
+ruwnay	runway
+sidney	sydney
+sydeny	sydney
+sydey	sydney
+syndey	sydney
+switchin	switching
+throusand	thousand
+thrirty	thirty
+thriteen	thirteen
+trafic	traffic
+toubleshooting	troubleshooting
+towe	tower
+volocity	velocity
+windcheck	wind check
